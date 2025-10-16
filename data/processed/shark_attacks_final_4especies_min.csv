@@ -1,0 +1,1333 @@
+Fecha,Año,País,Estado,Sexo,Edad,Provocado,Fatal,Hora_limpia,Momento_día,Especie_grupo,Herida
+,2025,Australia,NSW,M,57,,True,9,Mañana,Blanco,Both legs and arm severed
+,2025,Australia,NSW,M,,,False,7,Mañana,Blanco,None sustained board severly damaged
+,2025,Australia,NSW,M,9,,False,16,Tarde,Blanco,None sustained board severely damaged
+,2025,Australia,South Australia,M,19,,False,11,Mañana,Blanco,Kayak badly damaged no injury to person
+,2025,Bahamas,Great Abaco Islands,M,66,,False,,,Toro,Lacerations to right arm
+,2025,Australia,NSW,M,16,,False,16,Tarde,Toro,Serious bites to r bicep r wrist and r leg
+,2025,USA,Long Island NY,F,20,,False,16,Tarde,Tigre,Lacerations to lower left foot and leg
+,2025,USA,Florida,F,9,,False,12,Tarde,Toro,Right hand almost torn off
+,2025,USA,California,M,42,,False,14,Tarde,Blanco,No injury 
+,2025,Australia,WA,M,,,False,14,Tarde,Tigre,Bumping to the body
+,2025,Australia,WA,M,37,,True,12,Tarde,Blanco,Missing body not recovered
+,2025,Australia,NSW,F,56,,False,13,Tarde,Toro,Serious lacerations above right knee.
+,2025,Bahamas,,F,24,,False,18,Tarde,Toro,Left foot injured
+,2025,Bahamas,,F,20,,False,18,Tarde,Toro,Severed archilles tendon artery severed nerves severed.
+,2025,Turks and Caicos,Near five Cays settlement West Caicos,F,55,,False,,,Toro,both hands bitten off and a bite to left thigh
+,2025,Australia,Queensland,F,17,,True,16,Tarde,Toro,Bites to arm and upper body
+,2025,New Caledonia,Grande Terre,M,40,,True,16,Tarde,Toro,Severe arm injury and delay in medical treatment caused victim to die 
+,2025,Australia,South Australia,M,28,,True,17,Tarde,Blanco,Body not recovered
+,2024,Egypt,North of Marsa Alam,M,69,,False,,,Tigre,Injuries to stomach preventing attack on friend
+,2024,Egypt,North of Marsa Alam,M,48,,True,,,Tigre,Entire calf muscle removed and bitten both arms and legs
+,2024,New Zealand,Bay of Waitangi,M,24,,True,,,Blanco,Not stated but injuries fatal
+,2024,Australia,Queensland,F,57,,False,16,Tarde,Tigre,30cm (1ft) bite to lower calf 
+,2024,Honduras,Tela,M,38,,False,,,Toro,Back and thigh extensive tissue loss
+,2024,USA,Florida,M,16,,False,,,Toro,Bite to left arm
+,2024,Indonesia,Timor Leste,F,68,,True,,,Tigre,Found inside shark
+,2024,Honduras,Trujillo Colon,M,33,,False,,,Toro,Bite to left leg
+,2024,Morocco,Southern Morocco,F,30,,True,16,Tarde,Blanco,Leg severed
+,2024,Jamaica,Montego Bay,M,16,,True,,,Tigre,Head right arm and leg severed
+,2024,Australia,NSW,M,23,,False,11,Mañana,Blanco,Serious injury to leg
+,2024,USA,Texas,F,,,False,,,Toro,Bite to left leg calf muscle removed
+,2024,USA,Florida,F,15,,False,15,Tarde,Toro,Left hand bitten off and right leg bitten
+,2024,USA,Florida,F,45,,False,13,Tarde,Toro,Significant injuries to pelvic and abdominal region lower left arm amputated
+,2024,Tobago,Graet Courland Bay,M,64,,False,,,Toro,Bite wounds to left arm and leg wounds to abdomen and left hand
+,2024,Australia,South Australia,M,16,,False,13,Tarde,Blanco,Minor bite to left leg
+2024-03-15,2024,AUSTRALIA,Queensland,F,13,,False,16,Tarde,Tigre,"Minor injuries to back, abdomen and legs"
+2024-03-04,2024,USA,Hawaii,M,,,False,,,Tigre,"No injury, shark bit surfboard"
+2024-02-25,2024,AUSTRALIA,Western Australia,F,46,,False,11,Mañana,Tigre,Leg bitten
+2024-02-14,2024,INDIA,Maharashtra,M,32,,False,,,Toro,Calf of lower left leg injured
+2024-01-29,2024,AUSTRALIA,New  South Wales,F,29,,False,20,Noche,Toro,Right leg bitten
+2024-01-09,2024,AUSTRALIA,South Australia,M,64,,False,13,Tarde,Blanco,Leg bitten
+2023-12-29,2023,MEXICO,Sonora,M,22,,True,13,Tarde,Blanco,FATAL
+2023-12-28,2023,AUSTRALIA,South Australia,M,15,,True,13,Tarde,Blanco,FATAL
+2023-11-30,2023,AUSTRALIA,Queensland,M,21,,False,11,Mañana,Toro,Puncture wounds to right upper arm
+2023-11-02,2023,NEW ZEALAND,North Island,M,,,False,9,Mañana,Blanco,Minor injury. Wetsuit shredded
+2023-10-31,2023,AUSTRALIA,South Australia,M,55,,True,10,Mañana,Blanco,FATAL
+2023-10-25,2023,USA,Hawaii,M,30,,False,15,Tarde,Tigre,Bite to right thigh
+2023-10-15,2023,USA,Hawaii,M,50,,False,16,Tarde,Tigre,Left leg and hand injured
+2023-09-13,2023,EGYPT,South Sinai,F,34,,False,,,Tigre,"Left arm severely bitten, surgically amputated"
+2023-08-25,2023,AUSTRALIA,New South Wales,M,44,,,10,Mañana,Blanco,Severe injuries to lower limbs
+2023-07-03,2023,USA,New York,F,15,,False,13,Tarde,Tigre,3 small puncture wounds to left leg
+,2023,USA,Hawaii,M,,,False,,,Tigre,Sharks bit their inflatable boats
+2023-06-08,2023,EGYPT,Red Sea Protectorate,M,24,,True,15,Tarde,Tigre,Fatal
+2023-05-13,2023,AUSTRALIA,South Australia,M,46,,True,10,Mañana,Blanco,FATAL
+2023-05-11,2023,USA,Florida,F,13,,False,,,Toro,Multiple bites
+2023-05-11,2023,USA,Hawaii,M,,,False,,,Tigre,"Shark bit kayak, no inury to occupant"
+2023-05-09,2023,CUBA,Mayabeque,M,,,True,,,Toro,FATAL
+2023-04-23,2023,USA,Florida,M,,,False,,,Toro,Minor injury to lower right leg
+2023-04-09,2023,USA,Hawaii,M,58,,False,7,Mañana,Tigre,Injuries to right foot 
+2023-02-19,2023,NEW CALEDONIA,South Province,M,59,,,16,Tarde,Toro,"FATAL, Multiple injuries"
+2023-02-04,2023,AUSTRALIA,Western Australia,F,16,,True,15,Tarde,Toro,Fatal
+,2023,NEW CALEDONIA,South Province,M,49,,False,10,Mañana,Toro,"Hands, back and thigh inujured"
+2022-12-08,2022,USA,Hawaii,F,60,,True,12,Tarde,Tigre,Fatal attack
+2022-11-04,2022,USA,California,F,50,,False,10,Mañana,Blanco,Shallow punctures & lacerations to right thigh
+2022-10-25,2022,USA,Hawaii,M,51,,False,,,Tigre,"No injury, swim fin bitten"
+2022-10-07,2022,AUSTRALIA,Western  Australia,M,38,,False,11,Mañana,Toro,"Multiple injuries to left shoulder, arm and hand"
+2022-10-02,2022,USA,California,M,31,,False,15,Tarde,Blanco,Thigh injured
+2022-09-25,2022,SOUTH AFRICA,Western Cape Province,F,39,,True,7,Mañana,Blanco,FATAL
+2022-09-06,2022,BAHAMAS,,F,58,,True,14,Tarde,Toro,FATAL
+2022-08-17,2022,AUSTRALIA,New South Wales,M,,,False,,,Blanco,"No injury, kayak bitten in half"
+2022-08-15,2022,AUSTRALIA,Westerm Australia,M,17,,False,,,Blanco,Lacerations to lower legs
+2022-08-13,2022,USA,Florida,M,10,,False,16,Tarde,Toro,"Lower left leg severely bitten, necessitating surgical amputation"
+2022-07-13,2022,USA,New York,M,41,,False,7,Mañana,Tigre,Two-inch laceration to leg
+2022-07-01,2022,EGYPT,"Hurghada, Red Sea Governorate",F,,,True,,,Tigre,FATAL
+2022-07-01,2022,EGYPT,"Hurghada, Red Sea Governorate",F,68,,True,,,Tigre,FATAL
+2022-06-24,2022,JAMAICA,,M,,,False,,,Tigre,Right arm severed
+2022-06-22,2022,USA,California,M,62,,False,10,Mañana,Blanco,Stomach and leg injuries including a broken femur
+2022-05-20,2022,AUSTRALIA,Western Australia,M,20,,False,,,Toro,No Injury
+2022-04-30,2022,FRENCH POLYNESIA,Tahiti,M,22,,False,,,Tigre,Cut to knee
+2022-03-18,2022,COLUMBIA,Isla De San Andres,M,56,,True,,,Tigre,FATAL
+2022-03-15,2022,AUSTRALIA,New South Wales,M,32,,False,15,Tarde,Toro,Lacerations and punctures to leg and foot
+2022-02-26,2022,USA,California,M,42,,True,11,Mañana,Blanco,FATAL
+2022-02-17,2022,AUSTRALIA,Queensland,M,,,False,,,Tigre,Lacerations to left thigh
+2022-02-08,2022,COSTA RICA,Guanacoste,F,50,,,,,Toro,Right forearm and left hand injured
+2022-02-05,2022,AUSTRALIA,Western Australia,F,20,,False,11,Mañana,Blanco,Torso bitten
+2021-12-24,2021,USA,Los Angeles,M,31,,True,10,Mañana,Blanco,Fatal bite to chest
+,2021,AUSTRALIA,Queensland,M,24,,False,10,Mañana,Toro,Laceration to leg
+2021-08-21,2021,USA,Florida,M,41,,False,6,Mañana,Toro,Left ankle and foot bitten
+2021-07-23,2021,THAILAND,Chanthaburi Province,M,55,,False,,,Toro,Lacerations to lower right leg PROVOKED INCIDENT
+2021-07-19,2021,AUSTRALIA,Western Australia,M,,,False,12,Tarde,Blanco,"No injury, knocked off board by shark"
+2021-07-05,2021,AUSTRALIA,New South Wales,M,25,,False,16,Tarde,Blanco,Left forearm broken & lacerated
+2021-07-04,2021,USA,BAHAMAS,F,19,,False,,,Toro,PROVOKED INCIDENT Lacerations to right hand
+2021-06-26,2021,USA,California,M,38,,False,9,Mañana,Blanco,Posterior right thigh bitten
+2021-05-18,2021,AUSTRALIA,New South Wales,M,59,,True,11,Mañana,Blanco,FATAL
+2021-05-15,2021,USA,Hawaii,M,35,,False,16,Tarde,Tigre,2- to 3-inch cuts to posterior thigh
+2021-04-20,2021,USA,Hawaii,F,57,,False,8,Mañana,Tigre,Puncture wound to knee
+2021-04-13,2021,SOUTH AFRICA,Eastern Cape Province,M,38,,True,11,Mañana,Blanco,FATAL
+2021-03-27,2021,AUSTRALIA,Western Australia,M,27,,False,12,Tarde,Toro,Injury to calf
+2021-03-02,2021,NEW CALEDONIA,Loyalty Islands,M,16,,False,,,Tigre,Left leg bitten
+2021-02-28,2021,NEW CALEDONIA,,M,57,,True,11,Mañana,Tigre,Right leg bitten but death due to heart attack
+2021-02-20,2021,AUSTRALIA,Queensland,M,,,False,17,Tarde,Toro,Superficial wound       PROVOKED INCIDENT
+2021-02-02,2021,USA,Maui,M,,,False,14,Tarde,Blanco,"No injury, kayak bitten"
+2021-01-22,2021,USA,Florida,NAN,,,False,,,Blanco,No injury to occupants
+2021-01-21,2021,AUSTRALIA,South Australia,M,32,,True,17,Tarde,Blanco,FATAL
+2021-01-13,2021,AUSTRALIA,Western Australia,M,54,,False,7,Mañana,Toro,Severe injury to leg and broken him
+2020-12-30,2020,USA,California,M,,,False,,,Blanco,No injury. Swim fin bittten
+2020-12-10,2020,ST MARTIN,,F,39,,True,14,Tarde,Tigre,FATAL
+2020-12-08,2020,USA,Hawaii,M,56,,True,7,Mañana,Tigre,FATAL
+2020-12-06,2020,AUSTRALIA,South Australia,M,29,,False,14,Tarde,Blanco,Non-life-threatening injuries to buttock and thigh
+2020-11-23,2020,NEW CALEDONIA,South Province,F,,,False,,,Tigre,Three 3-inch lacerations to thigh
+2020-11-22,2020,AUSTRALIA,Western Australia,M,59,,True,8,Mañana,Toro,FATAL
+2020-09-20,2020,USA,Florida,M,30,,False,10,Mañana,Toro,Severe bite to shoulder
+2020-09-16,2020,AUSTRALIA,New South Wales,M,,,False,,,Blanco,"No injury, board bitten"
+2020-09-07,2020,AUSTRALIA,Queensland,M,46,,True,17,Tarde,Blanco,FATAL
+2020-08-30,2020,AUSTRALIA,New South Wales,NAN,,,False,,,Blanco,"Shark bit boat, no injury to occupant"
+2020-08-28,2020,USA,California,M,,,False,,,Blanco,"No injury, kayak damaged"
+2020-08-14,2020,AUSTRALIA,New South Wales,F,35,,False,9,Mañana,Blanco,Lacerations to right calf and posterior thigh
+2020-07-31,2020,AUSTRALIA,Western Australia,M,28,,False,14,Tarde,Blanco,Lacerations to leg
+2020-07-29,2020,AUSTRALIA,Tasmania,NAN,,,,9,Mañana,Blanco,"No injury to occupants, injury to shark attempting to swallow anchor"
+2020-07-27,2020,USA,Maine,F,63,,True,15,Tarde,Blanco,FATAL
+2020-07-22,2020,USA,North Carolina,M,,,False,17,Tarde,Toro,Left calf & foot bitten
+2020-07-17,2020,AUSTRALIA,Tasmania,M,10,,False,13,Tarde,Blanco,"Lacerations to arm, head & chest"
+2020-07-14,2020,USA,Florida,F,14,,False,,,Toro,Severe bite to right foot
+2020-07-11,2020,AUSTRALIA,New South Wales,M,15,,True,14,Tarde,Blanco,FATAL
+2020-06-22,2020,USA,Florida,M,7,,False,,,Toro,Cuts to lower leg
+2020-06-10,2020,NEW CALEDONIA,South Province,M,30,,True,,,Tigre,FATAL
+2020-06-07,2020,AUSTRALIA,New South Wales,M,60,,True,10,Mañana,Blanco,FATAL
+2020-06-01,2020,USA,Hawaii,M,,,False,8,Mañana,Tigre,Cut to index finger of hand
+2020-05-31,2020,BAHAMAS,Abaco Islands,M,,,False,,,Toro,Lacerations to left hand
+2020-05-30,2020,AUSTRALIA,Queensland,M,18,,False,,,Toro,"No injury, swim fin bitten"
+2020-05-28,2020,THAILAND,"Muang district of Satun province, ",M,12,,False,,,Toro,Left foot bitten
+2020-05-09,2020,USA,California,M,26,,True,13,Tarde,Blanco,FATAL
+2020-04-07,2020,USA,Florida,F,,,False,10,Mañana,Toro,Foot bitten
+,2020,NEW ZEALAND,North Island,M,,,False,,,Blanco,"PROVOKED INCIDENT No injury, shark nudged kayak repeatedly"
+2020-02-22,2020,NEW ZEALAND,North Island,M,60,,False,11,Mañana,Blanco,"Minor injury, surfboard bitten"
+2020-02-05,2020,USA,Maui,M,,,False,9,Mañana,Tigre,"No injury, but paddleboard bitten"
+2020-01-05,2020,AUSTRALIA,Western Australia,M,57,,True,13,Tarde,Blanco,FATAL
+2019-12-20,2019,AUSTRALIA,New South Wales,NAN,,,,,,Blanco,PROVOKED INCIDENT
+2019-12-12,2019,REUNION ISLAND,,M,70,,,,,Tigre,Partial remains recovered 12/26/2019 from shark
+2019-12-03,2019,USA,Hawaii,M,57,,False,10,Mañana,Tigre,"No injury, inflatable paddle board was bitten by the shark"
+2019-11-09,2019,SOUTH AFRICA,Eastern Cape Province,M,,,False,6,Mañana,Blanco,"No injury, kayak damaged"
+2019-11-06,2019,USA,California,F,,,False,8,Mañana,Blanco,"No inury, knocked from board"
+2019-11-02,2019,REUNION ISLAND,Saint-Gilles,M,44,,True,,,Tigre,Hand recovered from shark. Later confirmed death most likely due to drowning
+2019-10-29,2019,AUSTRALIA,Queensland,M,,,False,10,Mañana,Tigre,Raddons right foot was severed and Maggs sustained serious lacerations to his lower right leg.
+2019-10-25,2018,USA,California,M,,,False,8,Mañana,Blanco,"No injury, kayak bitten"
+2019-10-05,2019,AUSTRALIA,New South Wales,M,29,,False,16,Tarde,Blanco,"No injury, surfboard severely damaged"
+2019-10-05,2019,USA,California,M,51,,False,16,Tarde,Blanco,"No injury, shark bit kayak"
+2019-09-07,2019,AUSTRALIA,Western Australia,M,,,False,9,Mañana,Blanco,"No injury, shark bit swim fin"
+2019-07-22,2019,USA,Rhode Island,M,18,,False,18,Tarde,Tigre,Foot bitten
+,2019,NEW ZEALAND,Chatham Islands,M,45,,False,,,Blanco,Shark rammed him but no injury
+2019-07-10,2019,SOUTH AFRICA,Eastern Cape Province,M,,,False,10,Mañana,Blanco,Leg injured
+2019-07-09,2019,AUSTRALIA,Queensland,M,43,,False,8,Mañana,Toro,Puncture wounds to wrist
+2019-06-16,2019,USA,Georgia,M,64,,False,9,Mañana,Toro,Arc of lacerations to bicep
+2019-05-25,2019,NEW CALEDONIA,Noumea,M,10,,False,16,Tarde,Toro,Leg severed
+2019-05-17,2019,FIJI,,M,,,False,,,Tigre,Laceration to head and shark bit diver's tank
+2019-05-07,2019,USA,California,F,28,,False,,,Blanco,"No injury, shark severed surfboard leash"
+2019-04-23,2019,USA,Hawaii,F,65,,False,8,Mañana,Tigre,Injury to right inner thigh
+2019-04-06,2019,USA,Hawaii,M,58,,False,,,Tigre,"Probable death by drowning, body scavenged by shark"
+2019-04-05,2019,CHINA,Liaoning Province,F,,,False,,,Tigre,"Lacerations to face, chin and scalp"
+2019-02-04,2019,USA,Hawaii,M,,,False,13,Tarde,Tigre,Multiple lacerations to leg
+2019-02-02,2019,USA,Florida,M,50,,False,10,Mañana,Toro,Right wrist and hand injured
+2019-01-08,2019,USA,California,M,19,,False,10,Mañana,Blanco,Cuts to both lower legs
+2018-12-18,2018,MEXICO,Sonora,M,35,,True,11,Mañana,Tigre,FATAL
+2018-11-14,2018,AUSTRALIA,Queensland,M,31,,False,6,Mañana,Tigre,"No injury to occupant, kayak bitten"
+2018-11-11,2018,SOUTH AFRICA,KwaZulu-Natal,M,41,,False,,,Blanco,Surf-ski bitten but no injury to occupant
+2018-11-11,2018,AUSTRALIA,Western Australia,M,20,,False,8,Mañana,Tigre,Injuries to lower left leg and foot
+2018-10-23,2018,USA,California,M,,,False,,,Blanco,Injury to right hand / wrist
+2018-10-19,2018,AUSTRALIA,New South Wales,M,50,,False,7,Mañana,Toro,Injury to upper right arm
+2018-10-19,2018,NEW ZEALAND,North Island,M,25,,False,18,Tarde,Blanco,Severe lacerations to arm and hand and cut to face
+2018-10-13,2018,AUSTRALIA,Western Australia,M,,,False,12,Tarde,Blanco,"No injury, claimed he was bumped by shark"
+2018-09-29,2018,USA,California,M,13,,False,6,Mañana,Blanco,Traumatic injuries to upper torso
+2018-09-28,2018,AUSTRALIA,Northern Territory ,M,17,,False,,,Toro,Knee bitten
+2018-09-27,2018,USA,California,M,55,,False,15,Tarde,Blanco,"No injury, shark nicked kayak"
+2018-09-15,2018,USA,Massachusetts,M,26,,True,12,Tarde,Blanco,FATAL
+2018-09-08,2018,USA,Hawaii,M,23,,False,8,Mañana,Tigre,Right arm bitten
+2018-08-15,2018,USA,Massachusetts,M,61,,False,16,Tarde,Blanco,"Lacerations to leg, hip and hand"
+2018-08-09,2018,USA,Texas,M,42,,False,10,Mañana,Toro,Laceration to right leg above the knee
+2018-08-03,2018,EGYPT,,M,42,,True,15,Tarde,Tigre,FATAL
+2018-07-18,2018,USA,New York,M,13,,False,12,Tarde,Tigre,Minor puncture wounds to leg
+2018-07-18,2018,USA,New York,F,12,,False,11,Mañana,Tigre,Lacerations to lower leg
+2018-06-25,2018,USA,California,F,57,,False,18,Tarde,Blanco,"No injury to occupant, outrigger canoe and paddle damaged"
+2018-06-04,2018,MEXICO,Colima,M,,,False,,,Tigre,Lacerations to leg & hand PROVOKED INCIDENT
+2018-06-03,2018,BRAZIL,Pernambuco,M,18,,True,,,Tigre,FATAL
+2018-05-26,2018,USA,Florida,M,15,,False,17,Tarde,Toro,Lower left leg bitten
+2018-04-28,2018,USA,Texas,M,,,False,,,Tigre,Forearm bitten by hooked shark PROVOKED INCIDENT
+2018-04-28,2018,COSTA RICA,Cocos Island,M,30,,False,10,Mañana,Tigre,"No injury, shark bit scuba gear"
+2018-04-24,2018,AUSTRALIA,Western Australia,M,,,False,,,Blanco,"No injury, shark struck his leg"
+2018-04-23,2018,MALDIVES,Alifu Alifu Atoll,M,32,,False,21,Noche,Tigre,5-inch cut to hand
+2018-04-22,2018,SOUTH AFRICA,Western Cape Province,M,33,,False,9,Mañana,Blanco,"No injury, shark bit hole in ski"
+2018-04-15,2018,THAILAND,Hua Hin,M,54,,False,,,Toro,Lacerations to foot and ankle
+2018-04-14,2018,BAHAMAS,New Providence,M,,,False,9,Mañana,Tigre,No Injury. Shark swam away with the surf board
+2018-04-05,2018,BAHAMAS,,M,12,,False,18,Tarde,Toro,"2 puncture wounds to left foot, abrasion to right foot"
+2018-04-03,2018,SOUTH AFRICA,Eastern Cape Province,M,19,,False,15,Tarde,Blanco,Lacerations to left knee & lower leg
+2018-03-31,2018,USA,Hawaii,M,25,,False,9,Mañana,Tigre,"Lacerations to right hand and arm, loss of right leg below the knee"
+2018-02-23,2018,AUSTRALIA,New South Wales,F,55,,False,19,Noche,Blanco,Laceratons to right leg & foot
+2018-02-15,2018,AUSTRALIA,New South Wales,M,35,,False,16,Tarde,Toro,Puncture wounds to leff foot & lower leg
+2018-01-28,2018,AUSTRALIA,Western Australia,M,18,,False,8,Mañana,Toro,Injuries to right leg
+2018-01-21,2018,NEW CALEDONIA,,M,,,False,15,Tarde,Toro,Injuries to abdomen and arm
+2018-01-13,2018,AUSTRALIA,New South Wales,M,28,,False,,,Blanco,"No injury, shark took his swimfin"
+2017-12-31,2017,USA,Hawaii,F,54,,False,18,Tarde,Tigre,Severe lacerations to left thigh & knee
+2017-12-01,2017,Australia,New South Wales,M,62,,False,10,Mañana,Blanco,"Degloved right arm ligaments in both shoulders torn, both knee cartilages torn, pelvis displacement and shredded foot 32 stiches in all"
+2017-11-30,2017,COSTA RICA,Cocos Island,M,26,,False,,,Tigre,Serious injury to leg
+2017-11-30,2017,COSTA RICA,Cocos Island,F,49,,True,,,Tigre,FATAL
+2017-11-24,2017,USA,California,M,25,,False,13,Tarde,Blanco,Right leg bitten
+2017-11-04,2017,CUBA,Holquin Province,M,22,,True,23,Noche,Tigre,FATAL
+2017-10-22,2017,AUSTRALIA,South Australia,F,15,,False,,,Blanco,Minor injuries
+2017-10-09,2017,USA,Hawaii,M,54,,False,18,Tarde,Tigre,Lacerations to left hand
+2017-09-25,2017,AUSTRALIA,Western Australia,M,,,False,18,Tarde,Blanco,"No injury, board damaged by shark"
+2017-09-01,2017,AUSTRALIA,Westerm Australia,NAN,,,False,,,Blanco,"sharks rammed boats, no injury to occupants"
+2017-09-10,2017,AUSTRALIA,New South Wales,M,35,,False,6,Mañana,Blanco,Minor lacerations to right hip
+2017-08-29,2017,AUSTRALIA,Victoria,M,37,,False,10,Mañana,Blanco,"No injury, board bitten"
+2017-08-23,2017,USA,Massachusetts,M,69,,False,10,Mañana,Blanco,Not injured by shark but board bitten
+2017-08-01,2017,USA,California,M,,,False,10,Mañana,Blanco,"No injury, bow of kayak bitten"
+2017-07-23,2017,USA,New Jersey,F,,,False,,,Tigre,Minor injury to hand
+2017-07-20,2017,USA,California,M,40,,False,11,Mañana,Blanco,"No injury, kayak bitten"
+2017-07-20,2017,USA,California,M,50,,False,7,Mañana,Blanco,"No injury, shark bit paddleboard"
+2017-07-14,2017,USA,Washington,M,,,False,18,Tarde,Blanco,Pulled off board by shark but no injury
+2017-07-11,2017,USA,California,M,,,False,11,Mañana,Blanco,"No injury, kayak bitten"
+2017-07-09,2017,USA,Florida,M,46,,False,15,Tarde,Toro,Lower legs bitten
+,2017,MEXICO,Tabasco,M,32,,False,,,Tigre,Hand bitten by hooked shark PROVOKED INCIDENT
+2017-07-07,2017,SOUTH AFRICA,Eastern Cape Province,F,13,,False,15,Tarde,Blanco,"No injury, shark bit surfboard"
+2017-06-18,2017,USA,South Carolina,F,14,,False,,,Toro,Leg bitten
+2017-06-18,2017,REUNION,,M,34,,False,10,Mañana,Toro,"No injury, shark bit surfboard "
+2017-06-11,2017,AUSTRALIA,Western Australia,M,48,,False,8,Mañana,Blanco,"No injury, board bitten"
+2017-06-02,2017,BAHAMAS,New Providence ,F,32,,False,12,Tarde,Tigre,Right forearm severed 
+2017-05-28,2017,USA,Florida,M,,,False,,,Tigre,Lacerations to right arm
+2017-04-17,2017,AUSTRALIA,Western Australia,F,17,,True,16,Tarde,Blanco,FATAL
+2017-04-14,2017,USA,Hawaii,M,28,,False,9,Mañana,Tigre,Lower right leg severely injured
+2017-04-02,2017,USA,Florida,F,17,,False,15,Tarde,Toro,Lacerations to thighs
+2017-03-18,2017,USA,California,M,,,False,14,Tarde,Blanco,"No injury, kayak bitten"
+2017-02-25,2017,AUSTRALIA,Western Australia,F,,,False,,,Toro,Hand bitten
+2017-02-06,2017,SOUTH AFRICA,KwaZulu-Natal,M,,,False,,,Tigre,"Shark damaged kayak, no injury to occupant"
+2017-02-01,2017,USA,South Carolina,NAN,,,False,,,Blanco,"Shark bit boat, no injury to occupants"
+2017-01-21,2017,AUSTRALIA,Queensland,M,55,,False,12,Tarde,Toro,"Multiple injuries to arm, wrist and torso"
+2017-01-09,2017,INDONESIA,Bali,M,48,,False,7,Mañana,Toro,Injury to right wrist & forearm
+,,AUSTRALIA,Queensland,M,35,,,,,Toro,"No attack, shark made a threat display"
+2016-12-19,2016,SOUTH AFRICA,Western Cape Province,M,55,,False,7,Mañana,Blanco,"No injury, but ski severely damaged"
+2016-12-01,2016,AUSTRALIA,New South Wales,M,65,,False,9,Mañana,Blanco,Injuries to foot & arm
+2016-11-14,2016,USA,Hawaii,F,58,,False,10,Mañana,Tigre,Injuries to right calf and thigh
+2016-10-13,2016,MEXICO,,M,,,,,,Blanco,"Shark breached cage, no injury to diver"
+2016-09-26,2016,AUSTRALIA,New South Wales,M,17,,False,,,Blanco,4 deep lacerations to thigh
+2016-09-07,2016,USA,Hawaii,F,51,,False,14,Tarde,Tigre,Severe lacerations to shoulder & forearm
+2016-09-01,2016,USA,California,M,22,,False,,,Blanco,Two toes broken & lacerated
+2016-08-29,2016,USA,Florida,M,25,,False,15,Tarde,Toro,Lacerations to right foot
+2016-08-27,2016,REUNION,,M,20,,False,17,Tarde,Toro,"Right arm severed, ankle severely bitten "
+2016-08-06,2016,USA,Hawaii,M,21,,False,16,Tarde,Tigre,"No inury, shark & board collided"
+2016-07-28,2016,AUSTRALIA,Western Australia,M,,,False,,,Blanco,"No injury, shark nudged kayak repeatedly"
+2016-07-23,2016,BAHAMAS,Abaco Islands,M,,,False,,,Toro,Lacerations to face and right leg
+2016-07-17,2016,USA,Alabama,NAN,,,False,,,Tigre,"No injury, shark bit trolling motor"
+2016-07-15,2016,USA,California,M,61,,False,17,Tarde,Blanco,"No injury, board damaged"
+2016-07-08,2016,USA,California,M,,,False,,,Blanco,"No injury. Hull bitten, tooth fragment recovered"
+2016-07-07,2016,USA,California,M,,,False,,,Blanco,"No injury. Hull bitten, tooth fragment recovered"
+2016-06-23,2016,SOUTH AFRICA,Western Cape Province,M,43,,False,,,Blanco,Injuries to left leg & right hand
+2016-05-31,2016,AUSTRALIA,Western Australia,M,29,,True,16,Tarde,Blanco,FATAL
+2016-05-21,2016,USA,Florida,F,22,,False,18,Tarde,Toro,Lacerations and puncture wounds to foot and ankle
+2016-04-25,2016,INDONESIA,Bali,M,24,,False,7,Mañana,Toro,Elbow bitten
+2016-04-22,2016,SOUTH AFRICA,Western Cape Province,M,,,False,8,Mañana,Blanco,"No injury, surf-ski bitten"
+2016-04-13,2016,USA,Florida,M,26,,False,,,Toro,Multiple bites to right arm
+2016-04-09,2016,NEW CALEDONIA,Grand Terre,F,69,,True,10,Mañana,Tigre,FATAL
+2016-03-02,2016,BRAZIL,Santa Catarina State,M,41,,False,,,Tigre,Minor injury to head
+2016-02-02,2016,BRAZIL,Balneário Camboriú,M,41,,False,,,Tigre,Lacerations to scalp
+2016-01-24,2016,USA,Texas,M,,,False,9,Mañana,Toro,"Bruised ribs & tail bone, speargun broken and wetsuit cut"
+2016-01-23,2016,USA,Hawaii,M,48,,False,,,Tigre,No injury
+2015-12-26,2015,SOUTH AFRICA,KwaZulu-Natal,M,,,False,,,Blanco,"No injury, kayak damaged"
+2015-12-21,2015,BRAZIL,Pernambuco,M,32,,False,,,Tigre,Right hand & part of forearm removed
+2015-12-13,2015,AUSTRALIA,New South Wales,NAN,,,False,10,Mañana,Blanco,"No injury, shark rammed boat & bit motor"
+2015-12-11,2015,BAHAMAS,,M,26,,False,,,Toro,"Bitten on thigh, abdomen & hand"
+2015-11-10,2015,AUSTRALIA,New South Wales,M,20,,False,18,Tarde,Toro,Injury to left thigh
+2015-10-25,2015,SOUTH AFRICA,Western Cape Province,M,42,,False,15,Tarde,Blanco,"Lacerations to right calf, knee & hip"
+2015-10-17,2015,USA,Hawaii,M,44,,False,11,Mañana,Tigre,Severe injuries to lower legs. Foot later surgically amputated.
+2015-10-13,2015,USA,California,M,,,False,11,Mañana,Martillo,"No injury, shark rammed kayak repeatedly"
+2015-10-09,2015,USA,Hawaii,M,25,,False,10,Mañana,Tigre,"Left leg severed below the knee, defense injuries to left hand"
+2015-09-24,2015,USA,California,M,,,False,10,Mañana,Blanco,"No injury, kayak damaged"
+2015-09-20,2015,USA,Hawaii,M,27,,False,15,Tarde,Tigre,Severe laceration to left leg
+2015-09-19,2015,USA,California,M,,,False,,,Martillo,No injury
+2015-09-06,2015,USA,California,F,50,,False,17,Tarde,Blanco,"No injury, shark struck board, tossing her into the sea"
+2015-09-05,2015,USA,California,M,29,,False,14,Tarde,Martillo,Laceration to dorsum of foot by hooked shark  PROVOKED INCIDENT
+2015-09-04,2015,AUSTRALIA,New South Wales,M,62,,False,11,Mañana,Blanco,Inuries to lower left leg & ankle
+2015-09-01,2015,FIJI,,M,,,False,,,Tigre,Leg bitten
+2015-08-29,2015,USA,California,F,54,,False,10,Mañana,Blanco,"No injury, surfboard bitten"
+2015-08-29,2015,USA,California,M,21,,False,10,Mañana,Blanco,"No injury, shark struk sufer's leg and his board"
+2015-08-18,2015,USA,California,M,22,,False,7,Mañana,Blanco,"No injury, kayak bitten"
+2015-08-10,2015,USA,California,M,57,,False,8,Mañana,Martillo,Right hand bitten  PROVOKED INCIDENT
+2015-07-31,2015,AUSTRALIA,New South Wales,M,52,,False,6,Mañana,Blanco,"Lacerations and puncture wounds to hip, thigh, arm and hand"
+2015-07-25,2015,AUSTRALIA,Tasmania,M,46,,True,10,Mañana,Blanco,FATAL
+2015-07-22,2015,REUNION,,M,45,,False,,,Toro,Arm bitten
+2015-07-19,2015,SOUTH AFRICA,Eastern Cape Province,M,34,,False,,,Blanco,No injury
+2015-07-10,,USA,California,M,38,,False,8,Mañana,Blanco,"No injury, shark bumped & damaged board"
+2015-07-03,2015,AUSTRALIA,New South Wales,M,52,,False,9,Mañana,Blanco,"No injury, shark bit surfboard"
+2015-07-02,2015,AUSTRALIA,New South Wales,M,32,,False,9,Mañana,Blanco,Significant injuries to lower legs
+2015-06-27,2015,USA,North Carolina,M,18,,False,16,Tarde,Toro,"Injuries to right calf, buttock and both hands"
+2015-06-27,2015,SOUTH AFRICA,Western Cape Province,M,19,,False,14,Tarde,Blanco,"Right leg severed, multiple lacerations to left leg"
+2015-06-26,2015,SOUTH AFRICA,Western Cape Province,M,23,,False,16,Tarde,Blanco,Multiple lacerations to torso & leg
+2015-06-24,2015,USA,North Carolina,M,6,,False,12,Tarde,Tigre,Minor injury to foot
+2015-06-24,2015,AUSTRALIA,Western Australia,F,37,,False,9,Mañana,Blanco,"Bruises and abrasions to face, chin, chest, both shins & feet and cut to right hand when her surfboard was struck with force"
+2015-06-14,2015,USA,North Carolina,M,16,,False,17,Tarde,Toro,Arm amputated below shoulder
+2015-06-14,2015,USA,North Carolina,F,12,,False,16,Tarde,Toro,Left arm amputated at elbow & severe injury to leg
+2015-06-07,2015,USA,Florida,M,11,,False,10,Mañana,Toro,Lacerations to right calf
+2015-06-01,2015,REUNION,Le Port,M,47,,False,15,Tarde,Toro,Left forearm bitten
+2015-05-09,2015,NEW CALEDONIA,,M,50,,True,,,Toro,FATAL
+2015-05-03,2015,AUSTRALIA,New South Wales,M,,,False,15,Tarde,Blanco,Injuries to left arm & right hand
+2015-05-02,2015,SOUTH AFRICA,Eastern Cape Province,M,29,,False,13,Tarde,Blanco,"Injuries to leg, left arm & both hands"
+2015-04-25,2015,AUSTRALIA,South Australia,M,26,,False,9,Mañana,Blanco,Leg severed at mid-thigh
+2015-06-24,2015,AUSTRALIA,New South Wales,M,71,,False,11,Mañana,Blanco,"No injury, knocked off ski"
+2015-04-12,2015,REUNION,Saint-Gilles-les-Bains,M,13,,True,9,Mañana,Toro,FATAL
+2015-04-03,2015,USA,Florida,M,70,,False,,,Toro,Injuries to head & torso
+2015-03-26,2015,SOUTH AFRICA,Eastern Cape Province,M,36,,False,,,Blanco,No injury but kayak bitten
+2015-03-18,2015,USA,Hawaii,M,58,,False,11,Mañana,Tigre,Lacerations to left forearm. Lacerations to left hand and thigh
+2015-02-15,2015,ATLANTIC OCEAN,,NAN,,,False,,,Blanco,"No injury, shark bit rudder"
+2015-02-14,2015,REUNION,dÉtang-Salé,F,22,,True,18,Tarde,Tigre,FATAL
+2015-01-30,2015,AUSTRALIA,Queensland,M,57,,False,5,Madrugada,Toro,"No injury, shark's teeth scratched hull"
+2015-01-19,2015,USA,Florida,M,,,False,,,Blanco,No injury but shark bit trolling motor & rammed boat
+2015-01-06,2015,BAHAMAS,Abaco Islands,F,34,,False,16,Tarde,Blanco,Severe bite to right flank
+2014-12-29,2014,AUSTRALIA,Western Australia,M,17,,True,,,Blanco,FATAL
+2014-12-28,2014,USA,California,M,50,,False,11,Mañana,Blanco,Injury to hip/leg
+2014-12-15,2014,AUSTRALIA,Queensland,M,17,,True,11,Mañana,Tigre,FATAL
+2014-11-19,2014,AUSTRALIA,Western Australia,M,,,False,,,Blanco,"Shark chasing fish bumped boat, no injury to occupants"
+,2014,USA,California,NAN,,,False,,,Blanco,"Shark bumped boat, no injury to occupants"
+2014-10-31,2014,USA,Hawaii,F,34,,False,11,Mañana,Tigre,Lacerations to fingers
+2014-10-22,2014,USA,Hawaii,F,,,False,10,Mañana,Tigre,"No injury, paddleboard bitten"
+2014-10-14,2014,USA,South Carolina,F,7,,False,,,Toro,Lacerations to left foot
+2014-10-03,2014,USA,California,M,,,False,14,Tarde,Blanco,"No injury to occupant, shark/s holded  kayak"
+2014-10-03,2014,USA,California,M,,,False,11,Mañana,Blanco,"No injury to occupant, shark/s holded  kayak"
+2014-10-02,2014,AUSTRALIA,Western Australia,M,23,,False,11,Mañana,Blanco,"Left arm & right hand severed, lacerations to both legs"
+2014-09-06,2014,USA,Alabama,M,43,,False,13,Tarde,Toro,Leg bitten
+2014-09-03,2014,USA,Massachusetts,F,,,False,18,Tarde,Blanco,"No injury, shark bit kayak"
+,2014,USA,Florida,M,,,False,,,Toro,Lacerations to forearm from hooked shark PROVOKED INCIDENT
+2014-08-12,2014,USA,Florida,M,,,False,11,Mañana,Toro,Puncture wounds and lacerations to left thigh and knee
+2014-08-09,2014,BAHAMAS,,M,,,False,,,Toro,Puncture wounds to right foot and ankle
+2014-08-08,2014,USA,Louisiana,M,7,,False,,,Toro,Minor lacerations to left heel and big toe
+2014-08-01,2014,SOUTH AFRICA,Western Cape Province,M,20,,False,14,Tarde,Blanco,Lower limbs & thigh bitten
+2014-07-27,2014,USA,North Carolina,M,,,False,,,Tigre,Left foot bitten
+2014-07-05,2014,USA,California,M,,,False,9,Mañana,Blanco,PROVOKED INCIDENT Torso bitten by shark hooked by an angler
+2014-06-01,2014,USA,Florida,F,22,,False,13,Tarde,Toro,Laceration to right lower leg
+2014-05-24,2014,AUSTRALIA,Queensland,F,29,,False,,,Toro,Lacerations to legs
+2014-05-14,2014,AUSTRALIA,South Australia,M,35,,False,9,Mañana,Blanco,"No injury, but surfboard severely damaged"
+,2014,SOUTH AFRICA,,NAN,,,False,,,Blanco,"No injury to occupants, shark bit pontoon"
+2014-04-03,2014,AUSTRALIA,New South Wales,F,63,,True,8,Mañana,Blanco,FATAL
+2014-01-01,2014,NEW ZEALAND,,NAN,,,False,,,Blanco,"No injury to occupants, shark nudged and bit boat"
+2013-12-25,2013,NEW CALEDONIA,North Province,M,37,,False,11,Mañana,Toro,Leg bitten
+2013-12-16,2013,SOUTH AFRICA,Western Cape Province,M,19,,False,8,Mañana,Blanco,Injuries to left thigh
+2013-12-11,2013,USA,Hawaii,M,29,,False,8,Mañana,Tigre,Lacerations to right hand & knee
+2013-11-30,2013,AUSTRALIA,New South Wales,M,19,,True,14,Tarde,Tigre,FATAL
+2013-11-23,2013,AUSTRALIA,Western Australia,M,35,,True,9,Mañana,Blanco,FATAL
+2013-11-22,2013,USA,Oregon,M,25,,False,10,Mañana,Blanco,"No injury, board bitten"
+2013-11-12,2013,AUSTRALIA,Western Australia,M,,,False,15,Tarde,Blanco,"No injury, board bumped by shark"
+2013-10-31,2013,USA,Hawaii,M,46,,False,15,Tarde,Tigre,Severe bite to right calf & anklel
+2013-10-26,2013,REUNION,dÉtang-Salé,M,24,,False,16,Tarde,Toro,Right leg severed
+2013-10-26,2013,AUSTRALIA,Western Australia,M,,,False,10,Mañana,Blanco,"No injury, swim fin shredded"
+2013-10-20,2013,USA,Hawaii,M,25,,False,11,Mañana,Tigre,"No injury, shark bit surfboard"
+2013-10-11,2013,SOUTH AFRICA,Eastern Cape Province,M,74,,True,11,Mañana,Blanco,FATAL
+2013-10-08,2013,AUSTRALIA,Western Australia,M,55,,False,10,Mañana,Blanco,"Injuries to torso, head and face"
+2013-10-06,2013,USA,California,M,45,,False,8,Mañana,Blanco,Laceration to thigh
+2013-10-10,2013,USA,Florida,M,12,,False,15,Tarde,Toro,Lacerations to  right forearm
+2013-09-14,2013,USA,Florida,M,21,,False,15,Tarde,Toro,Lacerations to right foot
+2013-08-17,2013,USA,California,F,,,False,12,Tarde,Blanco,"No injury, shark bumped surfboard"
+2013-08-14,2013,USA,Hawaii,F,20,,True,16,Tarde,Tigre,FATAL
+2013-08-11,2013,USA,South Carolina,M,10,,False,17,Tarde,Toro,"No injury, shark became entangled in his surfboard leash"
+2013-08-05,2013,USA,Florida,M,17,,False,15,Tarde,Toro,Minor injury to foot & shin
+2013-07-29,2013,USA,Hawaii,M,18,,False,14,Tarde,Tigre,Lower leg bitten
+2013-06-25,2013,USA,California,M,,,False,15,Tarde,Blanco,"No injury, kayak scratched"
+2013-06-25,2013,USA,Florida,M,,,False,,,Toro,Lacerations to left foot
+2013-06-18,2013,USA,Hawaii,M,28,,False,12,Tarde,Tigre,Right thigh & calf bitten
+2013-05-08,2013,REUNION,Saint-Gilles,M,36,,True,8,Mañana,Toro,FATAL
+2013-04-24,2013,MEXICO,Quintana Roo,F,34,,False,13,Tarde,Tigre,Avulsion injury  to lower right leg
+2013-04-13,2013,USA,Florida,M,21,,False,13,Tarde,Toro,Minor lacerations to right hand
+2013-03-12,2013,JAMAICA,St. Catherine,M,68,,True,9,Mañana,Tigre,FATAL
+2013-02-27,2013,NEW ZEALAND,North Island,M,46,,True,13,Tarde,Blanco,FATAL
+2013-01-26,2013,AUSTRALIA,Victoria,M,,,False,,,Blanco,"No injury to occupants, shark bit propeller"
+2013-01-16,2013,USA,Hawaii,M,43,,False,16,Tarde,Tigre,Left forearm bitten 
+2012-12-28,2012,AUSTRALIA,New South Wales,M,29,,False,10,Mañana,Toro,Lacerations to thigh and hand
+2012-12-25,2012,SOUTH AFRICA,Eastern Cape Province,M,20,,True,,,Tigre,FATAL
+2012-12-19,2012,AUSTRALIA,Western Australia,M,32,,False,8,Mañana,Tigre,No injury
+2012-12-02,2012,AUSTRALIA,New South Wales,M,31,,False,16,Tarde,Tigre,Minor puncture wounds to knee
+2012-11-30,2012,USA,Hawaii,M,61,,False,9,Mañana,Tigre,Lacerations to thigh & lower left leg
+2012-11-04,2012,USA,Hawaii,M,30,,False,8,Mañana,Tigre,Right lower leg and foot bitten
+2012-11-04,2012,USA,Hawaii,M,43,,False,8,Mañana,Tigre,"No injury, surfboard bitten"
+2012-10-30,2012,USA,California,M,25,,False,12,Tarde,Blanco,Multiple lacerations to torso
+2012-10-27,2012,USA,Hawaii,F,51,,False,15,Tarde,Tigre,"Puncture wounds to thigh, defense wounds  to hand"
+2012-10-23,2012,USA,California,M,39,,True,11,Mañana,Blanco,FATAL
+2012-09-10,2012,TONGA,Vava'u,F,29,,False,,,Toro,Injuries to thighs & buttocks
+2012-09-02,2012,USA,Hawaii,NAN,,,False,12,Tarde,Tigre,Minor laceration to hand  PROVOKED INCIDENT
+2012-08-06,2012,REUNION,Saint Leu,M,39,,False,17,Tarde,Toro,Right hand and foot severed
+2012-07-31,2012,AUSTRALIA,South Australia,M,48,,False,14,Tarde,Blanco,Lacerations to torso & arm
+2012-07-30,2012,USA,Massachusetts,M,50,,False,15,Tarde,Blanco,Lacerations to both legs below the knees
+2012-07-14,2012,AUSTRALIA,Western Australia,M,24,,True,9,Mañana,Blanco,FATAL
+2012-06-26,2012,USA,Florida,M,6,,False,19,Noche,Toro,Thigh bitten
+2012-06-03,2012,AUSTRALIA,New South Wales,M,30,,False,14,Tarde,Blanco,"No injury, ski bitten"
+2012-05-29,2012,MEXICO,Guerrero,M,46,,False,9,Mañana,Toro,Left hand severed
+2012-05-20,2012,USA,Hawaii,M,,,False,,,Tigre,"No injury, teethmarks in kayak"
+2012-05-12,2012,USA,California,M,30,,False,14,Tarde,Blanco,"No injury, kayaker fell in the water when kayak bitten by a shark"
+2012-05-06,2012,USA,California,F,15,,False,7,Mañana,Blanco,"No injury, shark bit paddleboard"
+2012-04-19,2012,SOUTH AFRICA,Western Cape Province,M,20,,True,12,Tarde,Blanco,FATAL
+2012-04-11,2012,AUSTRALIA,South Australia,M,27,,False,,,Blanco,Minor wound to his thigh when shark bit kayak
+2012-04-03,2012,USA,Hawaii,M,28,,False,12,Tarde,Tigre,Lacerations to left foot
+2012-03-31,2012,AUSTRALIA,Western Australia,M,33,,True,9,Mañana,Blanco,FATAL
+2012-03-22,2012,AUSTRALIA,Western Australia,NAN,,,False,5,Madrugada,Blanco,"No injury to occupants. Shark bit propelle, rope & crayfish float"
+2012-03-20,2012,AUSTRALIA,Queensland,M,20,,False,17,Tarde,Toro,Lacerations to left calf
+2012-03-15,2012,USA,Florida,M,61,,False,15,Tarde,Toro,Left forearm bitten
+2012-02-20,2012,SOUTH AFRICA,Western Cape Province,NAN,,,False,,,Blanco,"No injury to occupants, boat damaged"
+2012-01-19,2012,AUSTRALIA,Western Australia,M,26,,False,,,Tigre,Lacerations to right forearm
+,2012,BAHAMAS,,M,,,False,,,Tigre,"No injury, shark grabbed his camera"
+2012-01-18,2012,AUSTRALIA,New South Wales,M,44,,False,16,Tarde,Blanco,Lacerations to thigh
+2012-01-15,2012,SOUTH AFRICA,Eastern Cape Province,M,25,,True,15,Tarde,Toro,FATAL
+2012-01-13,2012,USA,Oregon,M,53,,False,,,Blanco,"No injury, surfboard damaged"
+2012-01-02,2012,AUSTRALIA,Queensland,M,34,,False,9,Mañana,Tigre,"No injury, punctures to swim fin"
+2011-12-11,2011,AUSTRALIA,New South Wales,M,51,,False,5,Madrugada,Blanco,5 puncture wounds to thigh
+2011-11-22,2011,USA,California,M,,,False,,,Blanco,"No injury, kayak bitten"
+2011-10-29,2011,USA,California,M,27,,False,,,Blanco,"Lacerations to right wrist, foream & neck"
+2011-10-22,2011,AUSTRALIA,Western Australia,M,32,,True,13,Tarde,Blanco,FATAL
+2011-10-20,2011,USA,Oregon,M,41,,False,,,Blanco,"No injury, shark bit surfboard"
+2011-09-28,2011,SOUTH AFRICA,Western Cape Province,M,43,,False,12,Tarde,Blanco,"Right leg severed, left leg lacerated"
+2011-09-24,2011,USA,Florida,M,21,,False,15,Tarde,Toro,Laceration to left thigh
+2011-09-11,2011,PAPUA NEW GUINEA,Central Province,M,30,,False,,,Tigre,Lacerations to right leg
+2011-09-04,2011,AUSTRALIA,Western Australia,M,21,,True,13,Tarde,Blanco,FATAL
+2011-08-23,2011,SOUTH AFRICA,Western Cape Province,M,49,,True,9,Mañana,Blanco,FATAL
+2011-08-17,2011,USA,North Carolina,F,,,False,17,Tarde,Tigre,Lacerations to foot
+2011-08-16,2011,SEYCHELLES,Praslin,M,30,,True,16,Tarde,Toro,FATAL
+2011-07-22,2011,SOUTH AFRICA,Eastern Cape Province,M,29,,False,10,Mañana,Blanco,Upper left arm & right leg bitten
+2011-06-28,2011,SOUTH AFRICA,KwaZulu-Natal,M,22,,False,12,Tarde,Toro,Severe lacerations to hands and  left leg
+2008-06-26,2011,USA,North Carolina,F,10,,False,,,Toro,Ankle bitten
+2011-06-24,2011,USA,California,M,,,False,13,Tarde,Blanco,Shark leapt onto surfboard; surfer uninjured 
+2011-05-29,2011,SOUTH AFRICA,Western Cape Province,M,33,,False,,,Blanco,"No injury, board bumped by shark"
+2011-05-25,2011,USA,Hawaii,F,,,False,13,Tarde,Tigre,"No injury, board bitten"
+2011-05-22,2011,USA,Hawaii,F,,,False,12,Tarde,Tigre,"No injury, board bitten"
+2011-05-21,2011,NEW CALEDONIA,North Province,M,15,,True,11,Mañana,Tigre,"Thigh bitten, FATAL"
+2011-04-26,2011,USA,Florida,M,32,,False,,,Toro,Calf bitten
+2011-04-13,2011,INDONESIA,Bali,M,,,False,,,Toro,Lacerations to forearm
+2011-03-24,2011,MEXICO,Quintana Roo,F,,,False,,,Toro,Lower leg & foot bitten
+2011-03-23,2011,AUSTRALIA,New South Wales,M,48,,False,17,Tarde,Toro,Severe injury to left forearm
+,2011,AUSTRALIA,Queensland,M,36,,False,10,Mañana,Toro,Lacerations to right hand by hooked shark PROVOKED INCIDENT
+2011-02-17,2011,AUSTRALIA,South Australia,M,49,,True,18,Tarde,Blanco,FATAL
+2011-01-03,2011,AUSTRALIA,Western Australia,NAN,,,False,12,Tarde,Blanco,"No injury, shark nudged boat and bit propeller"
+,2010,AUSTRALIA,Western Australia,M,,,False,,,Blanco,No injury to occupant. Shark rammed bottom of the boat
+2010-10-30,2010,AUSTRALIA,Western Australia,F,20,,False,12,Tarde,Blanco,Torso and left buttock bitten
+2010-10-22,2010,USA,California,M,19,,True,8,Mañana,Blanco,FATAL
+2010-10-09,2010,AUSTRALIA,New South Wales,M,22,,False,13,Tarde,Toro,Foot bitten
+2010-09-27,2010,USA,Oregon,M,29,,False,16,Tarde,Blanco,"No injury, surfboard rammed"
+2010-09-21,2010,SOUTH AFRICA,Western Cape Province,M,29,,True,,,Blanco,FATAL
+2010-08-17,2010,AUSTRALIA,Western Australia,M,31,,True,8,Mañana,Blanco,FATAL
+2010-08-14,2010,USA,California,M,45,,False,,,Blanco,"No injury, kayak bitten"
+2010-08-02,2010,USA,California,M,,,False,12,Tarde,Blanco,"No injury, kayak bitten"
+2010-07-17,2010,USA,North Carolina,F,13,,False,13,Tarde,Tigre,Lacerations to right forearm
+2010-06-27,2010,USA,Texas,M,20,,False,,,Toro,Lacerations to right foot
+2010-02-06,2010,AUSTRALIA,New South Wales,M,18,,False,15,Tarde,Blanco,"No injury, shark & board collided"
+2010-01-31,2010,BRAZIL,Rio Grande Do Sul,M,29,,False,,,Martillo,Foot bitten
+2010-01-12,2010,SOUTH AFRICA,Western Province,M,37,,True,15,Tarde,Blanco,FATAL
+2009-12-20,2009,AUSTRALIA,Queensland,M,18,,False,7,Mañana,Toro,Lacerations to hand & forearm
+2009-12-16,2009,NEW ZEALAND,South Island,M,24,,True,,,Blanco,FATAL
+2009-12-12,2009,AUSTRALIA,New South Wales,NAN,,,False,7,Mañana,Blanco,No injury to occupants; shark bit steering oar
+2009-12-05,2009,USA,New Jersey,M,58,,False,13,Tarde,Tigre,Lacerations & puncture wounds to right calf & ankle when diver accidentally backed into the shark  PROVOKED INCIDENT
+2009-10-30,2009,AUSTRALIA,Victoria,M,27,,False,,,Blanco,"No injury, shark bit kayak"
+,2009,AUSTRALIA,Western Australia,M,23,,False,,,Toro,Severe lacerations to lower right leg
+2009-09-26,2009,USA,Florida,M,,,False,17,Tarde,Toro,Laceration to right foot
+2009-08-29,2009,SOUTH AFRICA,Western Cape Province,M,25,,True,15,Tarde,Blanco,FATAL
+2009-08-25,2009,USA,California,F,22,,False,16,Tarde,Blanco,Puncture wounds to left foot & calf
+2009-08-11,2009,SOUTH AFRICA,KwaZulu-Natal,M,,,False,,,Blanco,"No injury, shark bit bodyboard"
+2009-08-06,2009,USA,Hawaii,M,,,False,8,Mañana,Tigre,"No injury, surfboard bitten"
+2009-08-01,2009,USA,Louisiana,M,56,,False,10,Mañana,Toro,Right ankle & foot bitten
+2009-07-31,2009,BAHAMAS,Abaco Islands,M,14,,False,,,Toro,Lacerations to calf
+,2009,VIETNAM,,M,,,False,,,Blanco,Hand bitten by hooked shark PROVOKED INCIDENT
+2009-04-06,2009,USA,California,M,,,False,7,Mañana,Blanco,Shark struck him but the diver was not injured
+2009-02-12,2009,AUSTRALIA,New South Wales,M,33,,False,19,Noche,Blanco,Severe injury to hand 
+2009-02-11,2009,AUSTRALIA,New South Wales,M,31,,False,7,Mañana,Toro,Severe injuries to right hand & right thigh. Right hand  surgically amputated & his right leg a week later
+2009-02-07,2009,AUSTRALIA,New South Wales,M,41,,False,11,Mañana,Blanco,"No injury, surfboard dented"
+2009-01-25,2009,CUBA,Guantanamo Province,M,15,,False,10,Mañana,Toro,Severe lacerations to lower left leg
+2009-01-24,2009,SOUTH AFRICA,Eastern Cape Province,M,25,,True,14,Tarde,Tigre,FATAL
+2009-01-18,2009,AUSTRALIA,Victoria,M,,,False,9,Mañana,Blanco,"No injury to occupants, shark bit propeller"
+,2009,SOUTH AFRICA,Western Cape Province,NAN,,,True,,,Blanco,FATAL
+2009-01-11,2009,AUSTRALIA,Tasmania,F,13,,False,15,Tarde,Blanco,Severe lacerations to right leg
+2009-01-11,2009,AUSTRALIA,New South Wales,M,31,,False,9,Mañana,Blanco,Left thigh severely bitten
+2009-01-01,2009,CUBA,Guantanamo Province,NAN,,,False,,,Toro,Lacerations to right calf
+2008-12-27,2008,AUSTRALIA,New South Wales,M,29,,False,11,Mañana,Blanco,"No injury, shark struck kayak, catapulting him into the water"
+2008-12-27,2008,AUSTRALIA,Western Australia,M,51,,True,7,Mañana,Blanco,FATAL
+2008-12-20,2008,USA,California,M,,,False,15,Tarde,Blanco,"No injury, shark struck paddle"
+2006-12-06,2008,AUSTRALIA,New South Wales,NAN,,,False,,,Blanco,Shark bit boats sea anchor
+2008-10-06,2008,CROATIA," Split-Dalmatia Count,",M,43,,False,12,Tarde,Blanco,Calf bitten
+2008-09-09,2008,USA,Hawaii,M,40,,False,16,Tarde,Tigre,Bitten on right thigh & calf
+2008-09-08,2008,USA,California,M,,,False,10,Mañana,Blanco,"No injury to surfer, board bitten"
+2008-08-16,2008,USA,US Virgin Islands,F,38,,False,,,Toro,Severe lacerations to left foot
+2008-08-11,2008,USA,Hawaii,M,,,False,14,Tarde,Tigre,"No injury, shark grabbed his bag of fish"
+2008-07-30,2008,AUSTRALIA,Victoria,M,31,,False,10,Mañana,Blanco,"No injury, surfboard leash severed"
+,2008,SOUTH AFRICA,,M,,,False,,,Blanco,Lacerations to fingers
+2008-06-28,2008,BAHAMAS,Abaco Islands,M,42,,False,11,Mañana,Toro,Lacerations to calf
+2008-06-28,2008,SOUTH AFRICA,Western Cape Province,M,46,,False,14,Tarde,Blanco,"No injury, ski bitten"
+,2008,SOUTH AFRICA,Western Cape Province,M,,,False,,,Blanco,No injury
+2008-06-21,2008,USA,California,F,40,,False,9,Mañana,Blanco," No injury. Shark bumped kayak, flinging her into the  water. "
+2008-06-01,2008,BRAZIL,Pernambuco,M,14,,False,15,Tarde,Toro,"Hand severed, buttocks bitten"
+2008-05-24,2008,BAHAMAS,Grand Bahama Island,M,,,False,,,Tigre,Boat capsized in squall. 2 bodies scavenged  by sharks
+2008-05-10,2008,AUSTRALIA,Western Australia,M,37,,False,7,Mañana,Blanco,Severe lacerations to left leg
+2008-05-07,2008,NEW CALEDONIA,North Province,M,40,,False,14,Tarde,Toro,Lower legs bitten
+2008-04-28,2008,MEXICO,Guerro,M,24,,True,,,Tigre,FATAL    Severe bite to right thigh
+2008-04-26,2008,NEW CALEDONIA,North Province,M,32,,False,,,Toro,Lacerations to left foot
+2008-04-25,2008,USA,California,M,66,,True,7,Mañana,Blanco,FATAL
+2008-04-20,2008,AUSTRALIA,New South Wales,M,,,,,,Tigre,
+,2008,SOUTH AFRICA,KwaZulu-Natal,M,,,,,,Tigre,"As he pushd the shark away from his camera, his finger was cut on a tooth"
+2008-04-08,2008,AUSTRALIA,New South Wales,M,16,,True,8,Mañana,Toro,FATAL
+2008-03-07,2008,USA,California,M,27,,False,8,Mañana,Blanco,"No injury to surfer, surfboard bitten by the shark"
+2008-02-24,2008,BAHAMAS,Northern Bahamas,M,49,,True,10,Mañana,Toro,"Leg bitten, FATAL"
+,2008,MEXICO,Baja California,M,26,,False,,,Martillo,Leg bitten
+2007-12-10,2007,USA,Hawaii,M,52,,False,11,Mañana,Tigre,"No injury, shark bit surfboard "
+2007-11-03,2007,SOUTH AFRICA,Eastern Cape Province,M,37,,False,8,Mañana,Blanco,Lacerations to thigh
+2007-10-29,2007,USA,Hawaii,M,32,,False,15,Tarde,Tigre,Lacerations to left lower leg
+2007-10-15,2007,AUSTRALIA,New South Wales,F,52,,False,11,Mañana,Blanco,small laceration to wrist
+2007-09-30,2007,NEW CALEDONIA,Loyalty Islands,F,23,,True,,,Blanco,FATAL
+2007-09-27,2007,USA,California,F,,,False,8,Mañana,Blanco,"No injury to surfer, surfboard bitten"
+2007-08-28,2007,USA,Hawaii,M,15,,False,16,Tarde,Tigre,Laceration to right heel
+2007-08-28,2007,USA,California,M,24,,False,10,Mañana,Blanco,Lacerations to thigh & torso
+2007-08-20,2007,USA,Delaware,M,,,False,19,Noche,Tigre,Forearm bitten by hooked shark PROVOKED INCIDENT
+2007-08-15,2007,USA,Florida,M,20,,False,,,Toro,Puncture wounds to torso
+2007-08-07,2007,USA,Florida,F,19,,False,,,Toro,Lacerations to arm
+2007-07-22,2007,USA,California,M,,,False,,,Blanco,"No injury, surfboard bumped by shark for 20 minutes"
+2007-07-21,2007,USA,California,M,,,False,10,Mañana,Blanco,"No injury, kayak bitten"
+2007-07-10,2007,BAHAMAS,Abaco Islands,F,48,,False,11,Mañana,Toro,"Lacerations to thumb, ring and pinky fingers of right hand "
+2007-06-24,2007,USA,Hawaii,M,,,False,7,Mañana,Tigre,"No injury, board damaged"
+,2007,SEYCHELLES,Bird Island,M,,,False,,,Blanco,No injury
+2007-05-07,2007,USA,Hawaii,F,63,,False,8,Mañana,Tigre,Right foot bitten
+,2007,USA,Florida,NAN,,,False,,,Toro,"No injury to occupants, shark holed the transom-mounted livewell "
+2007-04-09,2007,NEW CALEDONIA,South Province,M,26,,False,16,Tarde,Tigre,Left foot bitten
+,2007,NEW ZEALAND,Cook islans,M,16,,False,,,Tigre,Leg bitten  by shark after he shot at it & missed  PROVOKED INCIDENT
+2007-01-25,2007,NEW CALEDONIA,North Province,M,30,,False,14,Tarde,Tigre,Leg bitten
+2007-01-23,2007,AUSTRALIA,New South Wales,M,41,,False,10,Mañana,Blanco,Head & torso bitten
+2007-01-14,2007,SOUTH AFRICA,Eastern Cape Province,M,24,,True,,,Tigre,"Presumed FATAL, body not recovered"
+2007-01-01,2007,USA,Hawaii,M,24,,False,10,Mañana,Tigre,"No injury, shark removed piece of surfboard"
+2006-12-10,2006,USA,California,M,43,,False,11,Mañana,Blanco,"Minor injuries, surfboard bitten"
+2006-12-02,2006,AUSTRALIA,Western Australia,M,15,,False,7,Mañana,Blanco,"Right leg severed, left leg lacerated"
+2006-11-09,2006,SOUTH AFRICA,Eastern Cape Province,M,,,False,,,Toro,Left arm lacerated when he grabbed shark by its tail PROVOKED INCIDENT
+2006-10-31,2006,USA,Oregon,M,22,,False,,,Blanco,"No injury, surfboard bitten"
+2006-09-02,2006,SOUTH AFRICA,Western Cape Province,M,37,,False,,,Blanco,"No injury, shark rammed surfboard"
+2006-08-13,2006,SOUTH AFRICA,Western Cape Province,M,24,,False,11,Mañana,Blanco,Foot severed
+,2006,REUNION,,M,,,False,,,Toro,Thigh bitten
+2006-07-31,2006,USA,Oregon,M,41,,False,16,Tarde,Blanco,Minor injury
+2006-07-28,2006,SOUTH AFRICA,Western Cape Province,M,19,,False,16,Tarde,Blanco,"No injury, surf ski bitten"
+2006-07-23,2006,USA,Texas,M,,,False,,,Toro,Right foot bitten
+2006-07-10,2006,BRAZIL,Pernambuco,M,,,True,,,Tigre,FATAL
+2006-07-08,2006,USA,South Carolina,F,14,,False,11,Mañana,Toro,Foot bitten
+2006-06-05,2006,AUSTRALIA,South Australia,M,40,,False,11,Mañana,Blanco,"No injury, knocked off surfboard"
+2006-05-31,2006,USA,Hawaii,M,26,,False,13,Tarde,Tigre,"4"" laceration to left forearm"
+2006-05-28,2006,USA,Hawaii,NAN,,,False,,,Tigre,"No injury to occupants, boat damaged by hooked shark PROVOKED INCIDENT"
+2006-05-19,2006,USA,Guam,F,,,False,15,Tarde,Tigre,Laceration to leg
+2006-04-13,2006,USA,Florida,M,35,,False,,,Toro,3 to 4 cm laceration on foot from hooked shark brought on board PROVOKED INCIDENT
+2006-04-09,2006,BRAZIL,Pernambuco,M,35,,False,,,Tigre,Left leg bitten
+2006-03-23,2006,USA,Hawaii,F,28,,False,11,Mañana,Tigre,5 puncture wounds in left calf
+2006-03-18,2006,FIJI,Vitu Levu,M,21,,False,18,Tarde,Tigre,Lacerations to right hand
+2006-02-12,2006,AUSTRALIA,South Australia,M,,,False,12,Tarde,Blanco,No injury to occupants; shark nudged the 5.3 m boat
+2006-02-01,2006,TONGA,Vava'u,F,24,,True,18,Tarde,Tigre,Severe bite to right leg FATAL
+2006-01-15,2006,AUSTRALIA,Western Australia,M,52,,False,11,Mañana,Blanco,Lacerations to left elbow
+2006-01-07,2006,AUSTRALIA,Queensland,F,21,,True,17,Tarde,Toro,FATAL
+2005-12-24,2005,USA,Oregon,M,30,,False,12,Tarde,Blanco,Lacerations to ankle & calf
+2005-12-21,2005,USA,Hawaii,M,29,,False,11,Mañana,Tigre,Left hand bitten
+,2005,AUSTRALIA,South Australia,NAN,,,False,15,Tarde,Blanco,"No injury to occupants, hydrofoil of outboard motor bitten "
+2005-11-25,2005,AUSTRALIA,Victoria,NAN,,,False,,,Blanco,"No injury to occupant, shark bit outboard motor"
+,2005,NEW CALEDONIA,,NAN,,,False,,,Blanco,"No injury to occupants, shark lifted bow of boat 3 times"
+2005-11-02,2005,USA,California,M,26,,False,7,Mañana,Blanco,"No injury, board bumped"
+2005-10-21,2005,USA,California,M,36,,False,11,Mañana,Blanco,No injury
+2005-10-19,2005,USA,California,F,20,,False,10,Mañana,Blanco,Leg bitten
+2005-10-13,2005,USA,Hawaii,M,22,,False,18,Tarde,Tigre,"No injury, surfboard bitten"
+2005-10-01,2005,SOUTH AFRICA,Western Cape Province,M,52,,False,15,Tarde,Blanco,"No injury, shark bit ski"
+,2005,AUSTRALIA,New South Wales,M,28,,False,,,Tigre,"No injury, knocked off board"
+2005-09-24,2005,AUSTRALIA,South Australia,M,26,,False,12,Tarde,Blanco,Lacerations to legs
+2005-09-05,2005,USA,North Carolina,F,18,,False,15,Tarde,Toro,Calf severely lacerated
+2005-09-04,2005,AUSTRALIA,South Australia,M,40,,False,15,Tarde,Blanco,Lacerations to right arm & thigh
+2005-08-24,2005,AUSTRALIA,South Australia,M,23,,True,16,Tarde,Blanco,FATAL
+2005-08-24,2005,USA,California,M,37,,False,11,Mañana,Blanco,Lower right leg lacerated
+2005-06-27,2005,USA,Florida,M,16,,False,11,Mañana,Toro,"Leg severely bitten, surgically amputated"
+2005-06-25,2005,USA,Florida,F,14,,True,11,Mañana,Toro,"FATAL, leg bitten"
+2005-06-13,2005,SOUTH KOREA,South Ch'ungch'ong Province,F,38,,False,,,Blanco,Knee bitten
+2005-06-05,2005,USA,New Jersey,M,17,,,11,Mañana,Blanco,Dorsum of foot/ankle  injured by surfboard skeg or other inanimate object.
+2005-06-04,2005,SOUTH AFRICA,Western Cape Province,M,22,,True,15,Tarde,Blanco,FATAL
+2005-05-14,2005,USA,Hawaii,NAN,,,False,11,Mañana,Tigre,"No injury, shark bit kayak"
+2005-05-02,2005,USA,Hawaii,M,47,,False,10,Mañana,Tigre,"No injury, board damaged"
+2005-04-06,2005,USA,Florida,F,,,False,,,Martillo,Left calf injured
+2005-03-19,2005,AUSTRALIA,Western Australia,M,26,,True,14,Tarde,Blanco,FATAL
+2005-03-12,2005,USA,New Mexico,M,45,,False,15,Tarde,Tigre,2 punctures on forearm as captive shark collided with diver PROVOKED INCIDENT
+2005-02-26,2005,AUSTRALIA,Queensland,M,18,,False,,,Toro,Finger bitten
+2005-02-16,2005,USA,Hawaii,M,,,False,14,Tarde,Tigre,"No injury, knocked off board, shark bit board"
+2005-01-08,2005,NEW ZEALAND,North Island,M,39,,False,12,Tarde,Blanco,"No injury, kayak bumped repeatedly"
+2004-12-16,2004,AUSTRALIA,South Australia,M,18,,True,15,Tarde,Blanco,FATAL
+2004-12-11,2004,AUSTRALIA,Queensland,M,38,,True,13,Tarde,Toro,"FATAL, leg bitten"
+2004-11-15,2004,SOUTH AFRICA,Western Cape Province,F,77,,True,7,Mañana,Blanco,FATAL
+2004-11-11,2004,USA,California,LLI,38,,False,13,Tarde,Blanco,"Lacerations to hand, knee & thigh "
+2004-10-31,2004,CUBA,Camaguey Province,M,40,,False,14,Tarde,Toro,Left forearm bitten
+2004-10-30,2004,SOUTH AFRICA,Western Cape Province,M,52,,False,,,Blanco,Right ankle & foot lacerated
+2004-10-10,2004,USA,California,M,,,False,9,Mañana,Blanco,Lower leg bitten
+2004-10-09,2004,USA,Hawaii,M,34,,False,12,Tarde,Tigre,Left shoulder bitten
+2004-10-06,2004,REUNION,Conservatória District,M,15,,False,16,Tarde,Tigre,"Leg severely bitten, surgically amputated"
+2004-09-25,2004,AUSTRALIA,Queensland,NAN,,,False,12,Tarde,Tigre,"No injury to occupants, boat damaged"
+2004-09-20,2004,USA,Oregon,M,26,,False,9,Mañana,Blanco,Leg bitten
+2004-08-21,2004,BRAZIL,Pernambuco,M,24,,False,13,Tarde,Tigre,Calf bitten & both hands injured
+2004-08-20,2004,USA,California,M,,,False,17,Tarde,Blanco,Foot bitten
+2004-08-15,2004,USA,California,M,50,,True,16,Tarde,Blanco,FATAL
+2004-08-01,2004,SOUTH AFRICA,KwaZulu-Natal,NAN,,,False,,,Blanco,No injury to occupants; boat damaged
+2004-07-30,2004,RUSSIA,Kuril Islands in the Pacific,M,,,False,,,Blanco,Thigh & calf bitten
+2004-07-25,2004,USA,Texas,M,11,,False,19,Noche,Toro,Right forearm nearly severed and bites above & below the right knee
+,2004,AUSTRALIA,Western Australia,NAN,,,False,,,Blanco,"No injury to occupants; shark mouthed motor, severed anchor line"
+2004-06-26,2004,USA,California,M,45,,False,9,Mañana,Blanco,"No injury, shark struck his board"
+2004-06-02,2004,SOUTH AFRICA,Western Cape Province,M,21,,True,15,Tarde,Blanco,"FATAL, leg severed "
+2004-05-23,2004,BRAZIL,Pernambuco,M,17,,False,14,Tarde,Toro,"Left hand, foot severed &  left calf & arm bitten"
+2004-04-22,2004,NEW ZEALAND,North Island,NAN,,,False,,,Blanco,"No injury to occupants, boat scratched by shark"
+2004-04-07,2004,USA,Hawaii,M,57,,True,7,Mañana,Tigre,FATAL Severe wound to right thigh & calf
+2004-04-05,2004,SOUTH AFRICA,Western Cape Province,M,16,,False,14,Tarde,Blanco,"Left leg lacerated, right leg severed above the knee "
+2004-03-31,2004,USA,Florida,M,20,,False,9,Mañana,Toro,15 puncture wounds on foot
+2004-03-29,2004,BRAZIL,Pernambuco,M,22,,False,7,Mañana,Toro,"Lower left leg bitten, surgically amputated"
+2004-03-28,2004,USA,Florida,M,,,False,15,Tarde,Toro,Heel bitten
+2004-03-16,2004,USA,Hawaii,M,51,,False,7,Mañana,Tigre,"No injury, board bitten"
+2004-01-25,2004,AUSTRALIA,Western Australia,M,46,,False,11,Mañana,Blanco,Left leg bitten
+2004-01-23,2004,URUGUAY,Rocha,M,21,,False,,,Tigre,Puncture wounds to dorsum of right foot
+2004-01-21,2004,VENEZUELA,Anzoategui,M,,,False,14,Tarde,Toro,Lower back & hand bitten
+2004-01-21,2004,VENEZUELA,Anzoategui,M,40,,False,11,Mañana,Toro,Right leg bitten
+2003-11-27,2003,SOUTH AFRICA,KwaZulu-Natal,M,21,,True,8,Mañana,Tigre,"Presumed FATAL, severed hand recovered"
+2003-11-12,2003,INDIA,Tamil Nadu,M,35,,False,,,Tigre,Left index finger lacerated
+2003-11-06,2003,SOUTH AFRICA,KwaZulu-Natal,NAN,,,False,,,Blanco,"No injury to occupants, hull of ski bitten"
+2003-10-31,2003,USA,Hawaii,F,13,,False,7,Mañana,Tigre,Left arm severed below shoulder
+2003-09-12,2003,SOUTH AFRICA,Western Cape Province,M,19,,True,14,Tarde,Blanco,"FATAL, left thigh, buttocks, back of spine, abdomen & chest bitten  "
+2003-08-29,2003,USA,Texas,M,,,False,12,Tarde,Toro,PROVOKED INCIDENT Hooked shark pulled onboard bit his arm  
+2003-08-19,2003,USA,California,F,50,,True,8,Mañana,Blanco,"FATAL          Hip & upper thigh bitten, femoral artery severed "
+2003-08-08,2003,SOUTH AFRICA,Eastern Cape Province,M,16,,False,8,Mañana,Blanco,"No injury, wetsuit torn & board bitten"
+2003-07-04,2003,BAHAMAS,Abaco Islands,M,39,,False,14,Tarde,Toro,Left calf bitten
+2003-07-01,2003,USA,Florida,M,,,False,,,Martillo,Laceration to toe
+2003-05-01,2003,PHILIPPINES,Baatan,NAN,,,False,,,Blanco,Arm severed
+2003-04-23,2003,BRAZIL,Pernambuco,M,17,,False,17,Tarde,Toro,"Hand & foot lacerated,  lower left leg severely bitten, necessitating surgical amputation"
+2003-02-27,2003,NEW ZEALAND,Southland,M,44,,False,11,Mañana,Blanco,Arm lacerated (shark made 3 strikes)
+2003-02-08,2003,AUSTRALIA,Queensland,M,84,,True,,,Toro,FATAL
+2003-01-03,2003,COSTA RICA,North Pacific coast,M,,,False,,,Toro,Lower right leg lacerated
+2002-12-29,2002,AUSTRALIA,Queensland,F,18,,False,,,Martillo,Left arm lacerated
+2002-12-24,2002,SOUTH AFRICA,Western Cape Province,M,25,,False,12,Tarde,Blanco,Forearms lacerated
+2002-12-16,2002,AUSTRALIA,Queensland,M,23,,True,2,Madrugada,Toro,FATAL
+2002-11-28,2002,USA,California,M,48,,False,9,Mañana,Blanco,Both legs severely lacerated
+2002-10-14,2002,BRAZIL,Pernambuco,M,36,,True,16,Tarde,Tigre,"FATAL, body not recovered"
+2002-09-27,2002,TONGA,Vava'u,M,,,False,15,Tarde,Tigre,Thigh lacerated  PROVOKED INCIDENT
+2002-09-16,2002,BRAZIL,Pernambuco,M,19,,False,15,Tarde,Tigre,"Left thigh bitten, leg surgically amputated"
+2002-09-13,2002,SOUTH AFRICA,Western Cape Province,M,47,,False,16,Tarde,Blanco,No injury
+2002-09-05,2002,USA,Florida,M,36,,False,17,Tarde,Martillo,2 small puncture wounds on left foot PROVOKED INCIDENT
+2002-08-28,2002,USA,Hawaii,M,16,,False,15,Tarde,Tigre,Left foot lacerated 
+,2002,UNITED KINGDOM,Cheshire,M,30,,False,,,Tigre,Hand bitten by captive shark PROVOKED INCIDENT
+2002-07-20,2002,USA,North Carolina,F,15,,False,17,Tarde,Toro,Calf bitten
+2002-07-10,2002,BRAZIL,Pernambuco,M,22,,False,15,Tarde,Tigre,Right hand severed
+2002-07-04,2002,USA,North Carolina,F,9,,False,17,Tarde,Toro,"Calf, foot & hand bitten"
+2002-06-11,2002,USA,Hawaii,NAN,,,False,13,Tarde,Tigre,"No injury, shark bit side of surfboard"
+2002-05-31,2002,USA,California,M,24,,False,14,Tarde,Blanco,Lacerated leg & back
+,2002,COSTA RICA,Guanacaste,M,,,False,,,Toro,Toothmarks in board & his swim trunks
+2002-04-30,2002,AUSTRALIA,South Australia,M,23,,True,12,Tarde,Blanco,"FATAL, torso & leg bitten  "
+2002-04-09,2002,BAHAMAS,Abaco Islands,M,43,,False,10,Mañana,Toro,Calf bitten
+2002-03-25,2002,USA,Hawaii,M,17,,False,12,Tarde,Tigre,Left leg severed below knee
+2002-01-30,2002,AUSTRALIA,New South Wales,M,20,,False,20,Noche,Tigre,Bruises & minor cuts
+2002-01-01,2002,USA,Hawaii,M,35,,False,13,Tarde,Tigre,Lacerations to buttocks & thigh
+2001-09-30,2001,MEXICO,Guerrero,M,26,,False,,,Tigre,Hand injured
+2001-09-30,2001,AUSTRALIA,Queensland,M,31,,False,,,Blanco,No injury from shark
+2001-09-13,2001,UNITED KINGDOM,Cheshire,M,,,False,,,Tigre,Head bitten by captive shark PROVOKED INCIDENT
+2001-09-03,2001,USA,North Carolina,M,28,,True,18,Tarde,Blanco,FATAL
+2001-09-03,2001,USA,North Carolina,F,23,,False,18,Tarde,Blanco,Left buttock & foot  severed
+2001-09-01,2001,USA,Virginia,M,10,,True,18,Tarde,Toro,"FATAL, thigh bitten "
+2001-08-31,2001,BAHAMAS,Abaco Islands,M,44,,False,13,Tarde,Toro,Torso lacerated
+2001-08-16,2001,BAHAMAS,Grand Bahama Island,M,43,,False,16,Tarde,Toro,Calf bitten
+2001-07-06,2001,USA,Florida,M,8,,False,,,Toro,"Arm severed, surgically reattached"
+2001-06-10,2001,USA,California,M,52,,False,9,Mañana,Blanco,"No injury. Shark made threat display, then diver shot the shark PROVOKED INCIDENT"
+2001-05-08,2001,SOUTH AFRICA,Eastern Cape Province,M,26,,False,,,Blanco,Leg bitten
+2001-04-08,2001,SOUTH AFRICA,Eastern Cape Province,M,46,,False,9,Mañana,Blanco,"Thigh, hip & buttock bitten"
+2001-03-01,2001,CARIBBEAN SEA,,NAN,,,True,,,Tigre,"Human remains recovered in shark caught off Anguilla, probable scavenging on drowned body"
+2001-02-26,2001,AUSTRALIA,Western Australia,NAN,,,False,,,Blanco,No injury to occupants
+2001-01-21,2001,AUSTRALIA,South Australia,NAN,,,False,,,Blanco,No injury to occupants
+2001-01-06,2001,NEW ZEALAND,North Island,M,,,False,,,Blanco,"No injury, kayak bitten"
+2000-12-11,2000,AUSTRALIA,South Australia,NAN,,,False,,,Blanco,No injury to occupants
+2000-11-21,2000,AUSTRALIA,Queensland,M,28,,False,,,Tigre,"No injury, wetsuit & swimfin torn"
+2000-11-06,2000,AUSTRALIA,Western Australia,M,52,,False,6,Mañana,Blanco,Leg & feet lacerated
+2000-11-06,2000,AUSTRALIA,Western Australia,M,49,,True,6,Mañana,Blanco,"FATAL, torso bitten, leg severed "
+2000-11-04,2000,USA,California,M,27,,False,16,Tarde,Blanco,Both thighs bitten
+2000-10-29,2000,AUSTRALIA,Queensland,NAN,31,,False,22,Noche,Blanco,"No Injury to occupant, shark holed and sank boat"
+2000-10-18,2000,USA,Hawaii,F,56,,False,11,Mañana,Tigre,Right side of back / torso lacerated
+2000-09-29,2000,USA,California,M,,,False,9,Mañana,Blanco,No injury
+2000-09-25,2000,AUSTRALIA,South Australia,M,17,,True,13,Tarde,Blanco,FATAL
+2000-09-24,2000,AUSTRALIA,South Australia,M,25,,True,7,Mañana,Blanco,FATAL
+2000-09-16,2000,OKINAWA,Miyako Island,M,31,,True,17,Tarde,Blanco, FATAL
+2000-09-10,2000,SOUTH AFRICA,Western Cape Province,M,48,,False,11,Mañana,Blanco,Swim fin bitten
+2000-09-08,2000,REUNION,Saint-Pierre,M,27,,False,18,Tarde,Tigre,Left arm bitten
+2000-08-30,2000,USA,Florida,M,69,,True,16,Tarde,Toro,FATAL
+2000-08-15,2000,USA,Hawaii,M,53,,False,11,Mañana,Tigre,Left calf lacerated
+2000-07-06,2000,USA,North Carolina,F,12,,False,16,Tarde,Tigre,Calf lacerated
+2000-06-13,2000,USA,Florida,NAN,,,False,14,Tarde,Toro,"No injury to occupants, boat's rear platform bitten"
+2000-06-09,2000,USA,Alabama,M,55,,False,6,Mañana,Toro,Puncture wounds on right hip and arm
+2000-06-09,2000,USA,Alabama,M,44,,False,6,Mañana,Toro,Right forearm severed surgically amputated above elbow
+2000-05-13,2000,NEW CALEDONIA,South Province,NAN,,,True,,,Tigre,Sharks prevented recovery of remains
+2000-03-15,2000,NEW CALEDONIA,North Province,M,35,,True,,,Tigre,FATAL
+2000-03-14,2000,AUSTRALIA,New South Wales,M,,,False,19,Noche,Tigre,No Injury
+2000-02-19,2000,SOUTH AFRICA,Western Cape Province,M,,,False,14,Tarde,Blanco,Foot bitten
+2000-01-01,2000,USA,Florida,M,,,False,,,Martillo,No injury to occupant; shark bit propeller
+1999-12-26,1999,BRAZIL,Pernambuco,M,18,,False,,,Tigre,"Leg bitten, surgically amputated"
+1999-11-23,1999,USA,Hawaii,F,51,,False,17,Tarde,Tigre,"Buttock bitten, hands lacerated"
+1999-11-15,1999,USA,California,M,,,False,,,Blanco,"No injury, board bitten"
+1999-11-13,1999,SOUTH AFRICA,KwaZulu-Natal,M,35,,False,,,Blanco,Lower legs lacerated
+1999-10-01,1999,USA,Hawaii,M,16,,False,18,Tarde,Tigre,Right arm bitten
+1999-09-24,1999,ITALY,Adriatic Sea,NAN,,,False,,,Blanco,No Injury to occupants
+1999-09-19,1999,USA,California,M,37,,False,18,Tarde,Blanco,"No injury, but kayak scraped & dented"
+1999-08-05,1999,BAHAMAS,Abaco Islands,M,35,,False,17,Tarde,Toro,Right arm bitten
+1999-07-29,1999,SOUTH AFRICA,Western Cape Province,M,42,,False,14,Tarde,Blanco,Right thigh bitten
+1999-07-26,1999,USA,Florida,M,43,,False,18,Tarde,Toro,Ankle bitten
+1999-07-21,1999,USA,Hawaii,M,43,,False,10,Mañana,Tigre,Right thigh & buttock bitten
+1999-07-15,1999,SOUTH AFRICA,Western Cape Province,M,14,,True,11,Mañana,Blanco,FATAL
+1999-07-03,1999,SOUTH AFRICA,Eastern Cape Province,M,29,,False,,,Blanco,Leg & board bitten
+1999-05-29,1999,AUSTRALIA,South Australia,M,22,,True,14,Tarde,Blanco,"FATAL, body not recovered"
+1999-05-01,1999,BRAZIL,Pernambuco,M,21,,False,,,Tigre,Leg & hands bitten
+1999-04-11,1999,REUNION,L' Etang Salé-les-Bains,M,52,,True,10,Mañana,Toro,FATAL
+1999-02-23,1999,AUSTRALIA,New South Wales,M,35,,False,,,Tigre,"Left hand & forearm bitten, board bitten"
+1999-01-29,1999,MAURITIUS,,M,47,,False,,,Toro,Legs & torso injured
+1999-01-13,1999,SOUTH AFRICA,Eastern Cape Province,M,,,False,,,Blanco,"No Injury, ski bitten"
+1999-01-03,1999,REUNION,Saint-Leu,NAN,,,True,,,Toro,FATAL
+1999-01-01,1999,SOUTH AFRICA,Western Cape Province,M,30,,False,12,Tarde,Blanco,Heel lacerated
+,1998,SOUTH AFRICA,Eastern Cape Province,M,18,,False,17,Tarde,Blanco,Leg bitten
+1998-11-21,1998,USA,Florida,M,9,,True,14,Tarde,Tigre,FATAL
+1998-11-05,1998,USA,Oregon,M,32,,False,,,Blanco,No injury
+1998-11-02,1998,BRAZIL,Pernambuco,M,22,,True,,,Blanco,"FATAL, left forearm severed  "
+1998-08-26,1998,USA,California,M,16,,False,14,Tarde,Blanco,"Thigh, buttocks & lower back lacerated"
+1998-08-12,1998,SOUTH AFRICA,Transvaal,M,,,False,,,Tigre,Lacerations to right shin  PROVOKED INCIDENT
+1998-08-01,1998,SOUTH AFRICA,Western Cape Province,M,19,,False,,,Blanco,Legs bitten
+1998-08-01,1998,SOUTH AFRICA,Western Cape Province,M,24,,False,13,Tarde,Blanco,Leg bitten
+1998-06-28,1998,AUSTRALIA,South Australia,M,26,,True,14,Tarde,Blanco,"FATAL, left thigh and lower leg severely injured  "
+1998-06-22,1998,SOUTH AFRICA,Eastern Cape Province,M,20,,True,9,Mañana,Blanco,"FATAL, hands & calf bitten  "
+1998-05-29,1998,SOUTH AFRICA,Eastern Cape Province,M,15,,False,,,Blanco,Right shoulder & arm bitten
+1998-05-16,1998,SOUTH AFRICA,Western Cape Province,M,22,,False,14,Tarde,Blanco,"Lower legs bitten, foot severed"
+1998-04-21,1998,USA,Oregon,M,50,,False,9,Mañana,Blanco,Right thigh bitten
+1998-03-15,1998,SOUTH AFRICA,Western Cape Province,M,33,,False,17,Tarde,Blanco,Lower leg lacerated
+1998-01-01,1998,USA,Virginia,M,,,False,,,Tigre,Shark grasped diver's gloved hand. Glove was soaked with fish blood & slime
+1997-12-28,1997,SOUTH AFRICA,Western Cape Province,M,39,,True,14,Tarde,Blanco,FATAL
+1997-11-09,1997,AUSTRALIA,Western Australia,M,42,,False,,,Blanco,Left arm lacerated when shark grabbed scooter
+1997-10-28,1997,AUSTRALIA,Western Australia,M,51,,False,,,Blanco,"Sierakowski suffered a minor facial injury, ski bitten in half by shark"
+1997-10-28,1997,USA,Hawaii,M,19,,False,7,Mañana,Tigre,"Both legs bitten, right leg severed at mid-calf & defense wounds on right hand"
+1997-08-24,1997,USA,California,M,29,,False,12,Tarde,Blanco,Leg & hand bitten
+1997-08-14,1997,MEXICO,Quintana Roo,M,33,,True,,,Tigre,"FATAL, arm & leg severed "
+1997-08-11,1997,EGYPT,Red Sea,M,16,,True,,,Blanco,FATAL
+1997-07-21,1997,SOUTH AFRICA,Eastern Cape Province,M,25,,True,12,Tarde,Blanco,FATAL
+1997-07-12,1997,OKINAWA,Miyako,M,55,,True,,,Blanco,"FATAL, legs severed  "
+1997-06-15,1997,FIJI,Taveuni,F,47,,False,14,Tarde,Tigre,"Bitten on inner thigh, leg surgically amputated"
+1997-04-20,1997,BRAZIL,Rio de Janeiro,M,22,,False,,,Blanco,Lower left leg & ankle bitten
+1997-02-28,1997,AUSTRALIA,Queensland,M,30,,False,,,Tigre,Left arm bitten
+1997-01-20,1997,AUSTRALIA,Western Australia,M,41,,True,18,Tarde,Tigre,"Presumed fatal, no body recovered, shark mutilated wetsuit & harness recovered "
+1997-01-03,1997,REUNION,,M,,,True,,,Toro,FATAL
+1997-01-01,1997,AUSTRALIA,Victoria,NAN,,,False,,,Blanco,"No injury to occupants, shark bit 2 of the dinghy's 3 floation chambers"
+1996-12-10,1996,SOUTH AFRICA,Eastern Cape Province,M,,,False,16,Tarde,Blanco,Elbow bitten
+1996-11-29,1996,USA,California,M,45,,False,8,Mañana,Blanco,Single laceration on ankle & board bitten
+1996-10-05,1996,USA,California,M,22,,False,13,Tarde,Blanco,Lower leg bitten
+1996-10-03,1996,USA,California,M,31,,False,7,Mañana,Blanco,"No Injury, shark struck his board"
+1996-09-06,1996,NEW ZEALAND,Chatham Islands ,M,23,,False,10,Mañana,Blanco,"Back, arms & wrist severely lacerated"
+1996-09-01,1996,SOUTH AFRICA,KwaZulu-Natal,M,29,,False,7,Mañana,Blanco,No injury  PROVOKED INCIDENT
+1996-08-29,1996,USA,Hawaii,M,19,,False,16,Tarde,Tigre,Right calf bitten
+1996-08-13,1996,USA,California,M,36,,False,11,Mañana,Blanco,"Left shoulder, forearm, hand & abdomen lacerated"
+1996-08-11,1996,USA,Florida,M,21,,False,14,Tarde,Martillo,"No injury, towed by shark that grabbed stringer of fish tied to his waist"
+1996-07-23,1996,OKINAWA,Miyako,M,52,,True,,,Blanco,"FATAL, torso & abdomen bitten,  forearm severedL"
+1996-06-06,1996,AUSTRALIA,Victoria,M,,,False,17,Tarde,Blanco,"No injury, board bitten"
+1996-05-28,1996,SOUTH AFRICA,Western Cape Province,M,17,,False,14,Tarde,Blanco,Leg bitten
+1996-03-05,1996,AUSTRALIA,Queensland,F,47,,False,7,Mañana,Tigre,Left arm & leg lacerated
+1996-01-16,1996,USA,Hawaii,M,53,,False,15,Tarde,Tigre,Lacerations to left foot & right shin
+1996-01-10,1996,REUNION,Saint-Paul ,M,25,,True,16,Tarde,Tigre,FATAL
+1996-01-01,1996,FIJI,Taveuni,M,,,True,,,Tigre,FATAL
+1996-01-01,1996,USA,North Carolina,M,,,False,,,Tigre,Survived
+1995-11-11,1995,NEW ZEALAND,"Chatham Islands, east of New  Zealand",M,22,,False,,,Blanco,Leg & chest lacerated
+1995-09-28,1995,USA,California,M,25,,False,17,Tarde,Blanco,"Right foot bruised, board bitten"
+1995-09-13,1995,USA,Florida,M,25,,True,,,Toro,"Presumed FATAL, body not recovered"
+1995-09-11,1995,AUSTRALIA,Western Australia,M,29,,True,15,Tarde,Blanco,"FATAL, head, shoulder and arm severed, remains recovered at Munglinup Beach on 9/13/1995"
+1995-09-03,1995,USA,California,M,32,,False,16,Tarde,Blanco,Lower leg bitten
+1995-06-30,1995,USA,California,M,31,,False,17,Tarde,Blanco,"Forearm, abdomen & upper leg lacerated"
+1995-06-24,1995,USA,California,F,,,False,,,Blanco,Minor injuries
+1995-06-14,1995,USA,Hawaii,M,38,,False,11,Mañana,Tigre,Puncture wounds & scratches to torso & left leg 
+1995-06-13,1995,HONG KONG,Clearwater Bay,F,45,,True,,,Tigre,"FATAL, left  leg & forearm severed"
+1995-05-26,1995,USA,Florida,M,15,,False,,,Toro,Left foot bitten
+1995-04-09,1995,JAPAN,Aichi Prefecture,M,47,,True,10,Mañana,Blanco,FATAL
+1995-01-24,1995,SOUTH AFRICA,KwaZulu-Natal,M,14,,True,18,Tarde,Tigre,"FATAL, right thigh bitten & femur exposed, shallow lacerations on right calf & left thigh & fingers lacerated "
+1994-12-30,1994,SOUTH AFRICA,Western Cape Province,M,26,,False,16,Tarde,Blanco,"No injury, board bitten"
+1994-12-09,1994,USA,California,M,42,,True,8,Mañana,Blanco,"FATAL, right leg nearly severed, puncture wounds to left leg "
+1994-09-21,1994,USA,Oregon,M,43,,False,16,Tarde,Blanco,"No injury, surfboard bitten"
+1994-07-09,1994,REUNION,Saint-Denis,M,24,,True,13,Tarde,Toro,FATAL
+1994-07-09,1994,SOUTH AFRICA,Eastern Cape Province,M,22,,True,13,Tarde,Blanco,"FATAL, leg severed "
+1994-07-09,1994,SOUTH AFRICA,Eastern Cape Province,M,31,,False,13,Tarde,Blanco,Buttock & leg bitten
+1994-04-15,1994,REUNION,Saint-Joseph,NAN,,,True,,,Toro,FATAL
+1994-04-02,1994,SOUTH AFRICA,Western Cape Province,M,,,True,,,Blanco,FATAL  
+1994-03-23,1994,CHILE,,F,19,,False,11,Mañana,Blanco,Leg severed mid-thigh
+1994-03-23,1994,CHILE,,M,,,False,11,Mañana,Blanco,Thigh bitten
+1994-02-12,1994,SOUTH AFRICA,Eastern Cape Province,M,15,,False,16,Tarde,Blanco,Leg bitten 
+1994-01-31,1994,USA,Hawaii,M,,,True,,,Tigre,FATAL
+,1994,AUSTRALIA,Western Australia,NAN,,,False,7,Mañana,Blanco,"No injury to occupants, shark bit anchor and ladder"
+,1994,HONG KONG,,F,,,False,,,Tigre,Both legs lacerated
+1993-12-01,1993,USA,Hawaii,M,,,True,,,Tigre,FATAL
+1993-11-21,1993,AUSTRALIA,Western Australia,M,27,,True,15,Tarde,Tigre,FATAL
+1993-10-30,1993,USA,California,M,26,,False,16,Tarde,Blanco,Serious injury to left leg
+1993-10-26,1993,USA,Florida,F,26,,False,10,Mañana,Toro,Thigh & hand lacerated
+1993-10-10,1993,USA,California,F,34,,False,14,Tarde,Blanco,"No Injury, Kayak holed"
+1993-10-01,1993,USA,Hawaii,NAN,,,False,,,Tigre,Serious leg wounds
+1993-09-26,1993,SOUTH AFRICA,Western Cape Province,M,36,,False,11,Mañana,Blanco,Calf lacerated
+1993-09-16,1993,EL SALVADOR,La Libertad,NAN,15,,False,,,Blanco,Left leg gashed
+1993-08-15,1993,USA,California,NAN,,,False,11,Mañana,Blanco,No injury to occupants; shark circled boat repeatedly then rammed the vessel 3 times
+1993-08-15,1993,USA,North Carolina,F,19,,False,10,Mañana,Toro,Severe lacerations to abdomen & thighs
+1993-08-14,1993,AUSTRALIA,Western Australia,NAN,,,False,,,Blanco,"No injury to occupants. Shark struck boat, lifting the outboard motor"
+1993-08-12,1993,USA,California,M,39,,False,14,Tarde,Blanco,Severe bites to head & shoulder
+1993-08-01,1993,EL SALVADOR,La Libertad,NAN,,,True,,,Blanco,FATAL x 2
+1993-07-30,1993,SOUTH AFRICA,Eastern Cape Province,M,28,,False,15,Tarde,Blanco,Puncture wounds on chest
+1993-06-10,1993,USA,Hawaii,M,22,,False,7,Mañana,Tigre,Feet & ankles bitten
+1993-06-09,1993,AUSTRALIA,New South Wales,M,31,,True,9,Mañana,Blanco,FATAL
+1993-06-05,1993,AUSTRALIA,Tasmania,F,34,,True,10,Mañana,Blanco,FATAL
+1993-03-17,1993,JAPAN,Ehime Prefecture,NAN,,,False,,,Blanco,Survived
+1993-03-14,1993,USA,Hawaii,M,35,,False,15,Tarde,Tigre,Lower legs lacerated 
+1993-03-12,1993,USA,California,M,55,,False,14,Tarde,Blanco,"No injury, swim fin bitten"
+1993-01-02,1993,USA,Oregon,M,29,,False,16,Tarde,Blanco,"No injury, shark bit board"
+,1993,ANGOLA,West Africa,M,,,False,,,Blanco,Right Leg bitten
+1992-12-28,1992,USA,Hawaii,M,10,,False,,,Tigre,Right leg bruised & abraded
+1992-12-23,1992,USA,Hawaii,M,30,,False,17,Tarde,Tigre,"Minor lacerations to hand, 15"" crescent-shaped piece removed from surfboard"
+1992-11-14,1992,USA,California,M,46,,False,12,Tarde,Blanco,"No injury, kayak bitten"
+,1992,FIJI,Wakaya Island,M,30,,False,,,Martillo,Left arm lacerated
+1992-11-05,1992,USA,Hawaii,M,18,,True,9,Mañana,Tigre,Right leg severely lacerated  FATAL
+1992-10-29,1992,USA,California,M,40,,False,11,Mañana,Blanco,Foot & swim fin punctured
+1992-10-22,1992,USA,Hawaii,M,28,,False,7,Mañana,Tigre,"Chest & arm bruised & scratched, 15"" crescent-shaped piece removed from board"
+1992-10-01,1992,AUSTRALIA,Queensland,M,28,,True,14,Tarde,Blanco,FATAL
+1992-09-13,1992,USA,Oregon,M,20,,False,17,Tarde,Blanco,Minor bruises
+1992-08-25,1992,AUSTRALIA,South Australia,M,17,,False,17,Tarde,Blanco,"Minor cuts, sufboard bitten"
+1992-08-18,1992,USA,California,M,22,,False,17,Tarde,Blanco,"No injury, board bitten"
+1992-06-28,1992,REUNION,Saint-Paul,M,16,,True,14,Tarde,Toro,FATAL
+1992-06-17,1992,JAPAN,Ehime Prefecture,NAN,,,False,12,Tarde,Blanco,"No inujury to occupant. Shark bit boat repeatedly, leaving  2 teeth in the bottom keel of the boat"
+1992-05-22,1992,REUNION,Saint-Joseph,M,,,True,14,Tarde,Tigre,FATAL
+1992-04-24,1992,NEW ZEALAND,Antarctic Ocean,M,,,False,15,Tarde,Blanco,"Right forearm severed, left forearm lacerated & broken"
+1992-03-28,1992,USA,Hawaii,F,36,,False,6,Mañana,Tigre,"Foot bitten, crescent of bitemarks in both sides of board"
+1992-03-08,1992,JAPAN,Ehime Prefecture,M,41,,True,15,Tarde,Blanco,"FATAL, body not recovered"
+1992-03-08,1992,USA,Oregon,M,21,,False,9,Mañana,Blanco,"Left shoulder & side bitten, board broken"
+1992-02-19,1992,USA,Hawaii,M,,,True,,,Tigre,FATAL Disappeared. His board washed ashore next morning with crescent-shaped piece missing and serrated toothmarks of a shark
+1991-12-04,1991,USA,California,M,25,,False,15,Tarde,Blanco,"No injury, shark became tangled in hose & towed him 100'"
+1991-11-26,1991,USA,Hawaii,F,41,,True,9,Mañana,Tigre,"FATAL, right leg at hip, left leg and right forearm severed  "
+1991-11-26,1991,USA,Hawaii,F,,,False,9,Mañana,Tigre,Right calf abraded
+1991-11-19,1991,USA,Hawaii,M,,,True,16,Tarde,Tigre,"Body not recovered, shorts found indicating shark bite on left side"
+1991-10-05,1991,USA,California,M,32,,False,7,Mañana,Blanco,"Arm, shoulder & back bitten"
+1991-09-08,1991,AUSTRALIA,South Australia,M,19,,True,15,Tarde,Blanco,FATAL
+1991-07-30,1991,ITALY,Ligurian Sea,F,40,,False,15,Tarde,Blanco,No Injury to occupant; canoe bitten
+1991-07-01,1991,REUNION,L'Etang-Salé,M,30,,False,17,Tarde,Tigre,Left arm severed
+1991-07-01,1991,USA,California,M,32,,False,9,Mañana,Blanco,"Forearm, upper thigh, knee & ankle lacerated"
+1991-06-07,1991,HONG KONG,Port Shelter,F,65,,True,6,Mañana,Tigre,Abdomen bitten & leg severed  FATAL
+1991-05-19,1991,SOUTH AFRICA,Western Cape Province,M,,,False,13,Tarde,Blanco,"No injury, tank scratched by shark"
+1991-02-24,1991,USA,Oregon,M,38,,False,9,Mañana,Blanco,Calf lacerated & board bitten
+1991-02-12,1991,SOUTH AFRICA,Western Cape Province,M,20,,False,12,Tarde,Blanco,Foot & swim fin bitten
+1990-11-03,1990,USA,California,F,,,False,15,Tarde,Blanco,Leg bitten
+1990-10-15,1990,USA,Hawaii,M,43,,False,15,Tarde,Tigre,"No Injury, board bitten"
+1990-09-15,1990,SOUTH AFRICA,Western Cape Province,M,26,,False,13,Tarde,Blanco,Right hand lacerated
+1990-09-08,1990,USA,California,M,49,,False,13,Tarde,Blanco,"Shark rammed & overturned paddleboard, knocking him into water & bit his head, lacerating his face & neck"
+1990-09-05,1990,USA,California,M,44,,False,17,Tarde,Blanco,"No injury, kayak capsized"
+1990-08-28,1990,USA,California,M,22,,False,16,Tarde,Blanco,4 punctures on leg & board bitten
+1990-06-24,1990,SOUTH AFRICA,Western Cape Province,F,21,,True,15,Tarde,Blanco,"FATAL, thigh bitten  "
+1990-05-10,1990,AUSTRALIA,Queensland,F,,,False,,,Martillo,Lacerations
+1990-05-10,1990,AUSTRALIA,Queensland,M,,,False,,,Martillo,Lacerations
+1990-05-06,1990,SOUTH AFRICA,Eastern Cape Province,M,22,,False,12,Tarde,Blanco,Thigh severely bitten
+1990-04-14,1990,SOUTH AFRICA,Eastern Cape Province,M,23,,False,14,Tarde,Blanco,Leg bitten
+1990-04-09,1990,AUSTRALIA,Queensland,M,31,,False,5,Madrugada,Tigre,"Lacerations & abrasions, board bitten in half"
+1990-03-05,1990,REUNION,Sainte-Marie,M,,,False,17,Tarde,Toro,Survived
+1990-01-12,1990,USA,California,M,,,False,,,Blanco,"No injury, board bitten"
+1989-12-03,1989,AUSTRALIA,Northern Territory,M,17,,,,,Tigre,"No details, ""recovering in Darwin Hospital"""
+1989-11-22,1989,AUSTRALIA,Victoria,M,32,,False,,,Blanco,Thigh bitten
+1989-11-18,1989,SOUTH AFRICA,Western Cape Province,M,29,,True,12,Tarde,Blanco,FATAL
+1989-10-22,1989,AUSTRALIA,Tasmania,M,17,,False,14,Tarde,Blanco,"No injury, board bitten"
+1989-10-01,1989,AUSTRALIA,Victoria,M,,,,,,Blanco,No details
+1989-09-17,1989,SOUTH AFRICA,Western Cape Province,M,29,,False,14,Tarde,Blanco,Chest lacerated
+1989-09-10,1989,USA,California,NAN,,,False,,,Blanco,No injury to occupants. Shark bit boat's swim step & repeatedly pushed the boat away whenever if came within 4 to 5 m of the whale carcass
+1989-09-09,1989,USA,California,M,38,,False,12,Tarde,Blanco,Leg bitten
+1989-08-22,1989,SOUTH AFRICA,Western Cape Province,M,21,,False,10,Mañana,Blanco,Multiple Injuries
+,1989,AUSTRALIA,Queensland,M,41,,False,,,Blanco,Laceration to arm  PROVOKED INCIDENT
+1989-07-20,1989,SOUTH AFRICA,Eastern Cape Province,M,34,,False,10,Mañana,Blanco,Torso bitten
+1989-06-17,1989,USA,Louisiana,M,45,,False,,,Tigre,Puncture wounds & lacerations to both legs
+1989-06-06,1989,ITALY,Tuscany,M,,,False,15,Tarde,Blanco,Upper right thigh bitten
+1989-06-05,1989,SOUTH AFRICA,Eastern Cape Province,M,16,,False,16,Tarde,Blanco,"No injury, board bitten"
+1989-06-03,1989,SOUTH AFRICA,Eastern Cape Province,M,28,,False,15,Tarde,Blanco,Forearm bitten
+1989-04-12,1989,USA,Washington,M,,,False,10,Mañana,Blanco,Forearm bitten
+1989-04-09,1989,USA,California,NAN,,,False,10,Mañana,Blanco,No injury to occupants. Shark rammed boat 4 times
+1989-03-09,1989,AUSTRALIA,South Australia,M,27,,True,20,Noche,Blanco,Thigh bitten FATAL
+1989-03-04,1989,AUSTRALIA,Western Australia,M,,,False,,,Tigre,"No injury, but the kayak was bitten by the shark"
+1989-02-02,1989,ITALY,Tyrrhenian Sea,M,47,,True,10,Mañana,Blanco,FATAL. His body not recovered
+1989-01-26,1989,USA,California,F,24,,True,10,Mañana,Blanco,"FATAL, thigh bitten, hands lacerated  "
+1989-01-20,1989,USA,Hawaii,M,10,,False,,,Martillo,Foot bitten
+1989-01-03,1989,AUSTRALIA,New South Wales,M,17,,False,17,Tarde,Tigre,"Abdomen lacerated, surfboard holed"
+1988-12-15,1988,CHILE,Valpariso Province,M,,,True,,,Blanco,FATAL
+1988-10-23,1988,USA,Oregon,M,21,,False,17,Tarde,Blanco,Leg bitten & femur fractured
+1988-09-13,1988,USA,Florida,M,38,,True,15,Tarde,Toro,"FATAL, thigh & hand lacerated"
+1988-08-22,1988,USA,Louisiana,M,,,False,,,Tigre,Arm bitten by captive shark PROVOKED INCIDENT
+1988-08-11,1988,USA,California,M,27,,False,9,Mañana,Blanco,Thigh bitten
+1988-06-16,1988,SOUTH AFRICA,Western Cape Province,M,36,,False,9,Mañana,Blanco,Left arm lacerated
+1988-06-16,1988,USA,North Carolina,M,42,,False,,,Tigre,Survived
+1988-04-24,1988,USA,California,M,,,False,,,Blanco,No Injury
+1988-02-13,1988,SOUTH AFRICA,KwaZulu-Natal,F,15,,False,7,Mañana,Toro,"Leg bitten, surgically amputated"
+1988-02-02,1988,Fiji,Vanua Levu,M,22,,False,,,Tigre,Lacerations to left arm & waist
+1987-10-11,1987,SOUTH AFRICA,Western Cape Province,M,21,,False,12,Tarde,Blanco,Left thigh & calf lacerated
+1987-09-18,1987,AUSTRALIA,South Australia,M,47,,True,,,Blanco,FATAL
+1987-09-13,1987,SOUTH AFRICA,Western Cape Province,M,24,,False,11,Mañana,Blanco,Torso lacerated
+1987-08-15,1987,USA,California,M,40,,False,7,Mañana,Blanco,Fingers & surfboard injured
+1987-03-30,1987,SOUTH AFRICA,Western Cape Province,NAN,,,False,,,Blanco,"No injury to occupants, boat holed by hooked shark PROVOKED INCIDENT"
+1987-01-28,1987,SOUTH AFRICA,Eastern Cape Province,M,30,,False,12,Tarde,Blanco,Puncture wounds to right hand
+1987-01-01,1987,ITALY,Tyrrhenian Sea,M,,,False,,,Blanco,No injury
+1986-12-22,1986,SOUTH AFRICA,Western Cape Province,M,21,,True,17,Tarde,Blanco,"FATAL, legs bitten "
+1986-12-06,1986,USA,California,M,27,,False,10,Mañana,Blanco,"Punctured lung, lacerations to shoulder, face, jaw, neck & forearm"
+1986-12-01,1986,NEW CALEDONIA,,NAN,,,False,,,Tigre,Right leg bitten
+1986-10-01,1986,USA,Florida,M,28,,False,,,Toro,Laceration to right arm
+1986-07-26,1986,AUSTRALIA,Western Australia,NAN,,,False,,,Blanco,"No injury to occupants. Shark bit motor, lifting stern a half-metre out of the water"
+1986-03-18,1986,SPAIN,Cádiz,M,,,False,10,Mañana,Blanco,Foot severed
+1986-02-18,1986,SOUTH AFRICA,Eastern Cape Province,M,21,,False,12,Tarde,Blanco,"No injury, board bitten"
+1985-12-10,1985,USA,North Carolina,M,,,False,,,Tigre,Survived
+1985-11-05,1985,USA,California,NAN,,,False,,,Blanco,2 semi-circular bites on aft starboard tube of boat
+1985-10-24,1985,SOUTH AFRICA,Eastern Cape Province,M,22,,False,8,Mañana,Blanco,"Left leg severely lacerated, superficial lacerations of right leg,  board damaged"
+1985-10-18,1985,USA,Hawaii,M,33,,False,,,Tigre,"Right hand and part of forearm severed , left hand lacerated, right anterior side of board removed by shark"
+1985-09-28,1985,USA,California,M,,,False,,,Blanco,"Hip bumped by shark, no Injury"
+1985-07-25,1985,USA,Florida,F,13,,False,17,Tarde,Martillo,Right calf bitten
+1985-07-21,1985,USA,California,NAN,,,False,,,Blanco,"No injury to occupant, shark rammed boat catapulting it out of the water"
+1985-07-19,1985,USA,South Carolina,F,10,,False,,,Tigre,2/3rd of left calf removed
+,1985,ITALY,Sicily,M,13,,False,16,Tarde,Blanco,Contusion of left foot
+1985-03-03,1985,AUSTRALIA,South Australia,F,33,,True,12,Tarde,Blanco,FATAL
+1985-02-18,1985,USA,California,M,29,,False,12,Tarde,Blanco,Bruised
+1985-01-17,1985,SOUTH AFRICA,KwaZulu-Natal,M,18,,False,18,Tarde,Blanco,Thigh & calf bitten
+1985-01-04,1985,SOUTH AFRICA,Western Cape Province,M,34,,False,11,Mañana,Blanco,Minor injury to torso
+1985-01-01,1985,NEW CALEDONIA,South Province,NAN,,,False,,,Tigre,Legs bitten 
+1985-01-01,1985,IRAN,,M,,,True,,,Toro,FATAL
+1984-12-03,1984,ITALY,Tyrrhenian Sea,NAN,,,False,,,Blanco,No injury
+1984-11-30,1984,AUSTRALIA,Queensland,M,16,,True,12,Tarde,Tigre,FATAL
+1984-09-30,1984,USA,Oregon,M,25,,False,15,Tarde,Blanco,"Abrasion on right foot, board bitten"
+1984-09-30,1984,USA,California,M,,,False,10,Mañana,Blanco,Legs & buttocks bitten
+1984-09-22,1984,USA,Florida,M,16,,False,,,Martillo,Foot bitten
+1984-09-15,1984,USA,California,M,28,,True,8,Mañana,Blanco,FATAL
+1984-09-11,1984,MEXICO,Baja California,M,,,False,17,Tarde,Blanco,"No Injury, PROVOKED INCIDENT"
+1984-06-15,1984,SOUTH AFRICA,Western Cape Province,M,27,,False,17,Tarde,Blanco,"No injury, board bitten"
+1984-06-03,1984,USA,Hawaii,F,13,,False,17,Tarde,Martillo,Foot bitten
+1983-12-24,1983,AUSTRALIA,South Australia,M,48,,False,,,Blanco,Fingers bitten
+,1983,USA,Florida,M,15,,False,,,Tigre,Laceration to left foot
+1983-08-20,1983,USA,Oregon,M,,,False,10,Mañana,Blanco,"No injury, board bitten"
+1983-08-20,1983,SOUTH AFRICA,Western Cape Province,M,29,,False,10,Mañana,Blanco,Inner thighs lacerated
+1983-08-13,1983,USA,Florida,F,22,,False,,,Toro,Right leg severely bitten
+1983-07-26,1983,AUSTRALIA,Queensland,F,21,,True,4,Madrugada,Tigre,"FATAL, shark seized her by the chest and took her underwater "
+1983-07-25,1983,AUSTRALIA,Queensland,M,24,,True,,,Tigre,"FATAL, shark bit leg, then dragged him underwater "
+1983-07-25,1983,AUSTRALIA,Queensland,M,28,,False,,,Tigre,"Left knee bitten, but survived"
+1983-07-12,1983,USA,Florida,F,39,,False,,,Martillo,Left ankle nipped (3 punctures wounds)
+1983-03-30,1983,SOUTH AFRICA,KwaZulu-Natal,M,17,,False,11,Mañana,Toro,Right calf lacerated
+1983-01-08,1983,SOUTH AFRICA,Western Cape Province,M,32,,False,13,Tarde,Blanco,"No injury, rammed by shark"
+1982-09-30,1982,SOUTH AFRICA,Eastern Cape Province,M,16,,False,14,Tarde,Blanco,"No Injury, surfboard bitten"
+1982-09-25,1982,USA,California,M,36,,False,,,Blanco,Lacerations to hand
+1982-09-19,1982,USA,California,M,28,,False,14,Tarde,Blanco,Upper left thigh & buttocks bitten
+1982-07-24,1982,SOUTH AFRICA,Eastern Cape Province,M,38,,False,16,Tarde,Blanco,"No injury, ski bitten"
+1982-07-24,1982,USA,California,M,26,,False,11,Mañana,Blanco,"No Injury, board bitten"
+1982-06-29,1982,SOUTH AFRICA,Eastern Cape Province,M,27,,True,9,Mañana,Blanco,FATAL
+1982-02-28,1982,AUSTRALIA,Tasmania,M,32,,True,,,Blanco,"FATAL, body not recovered"
+1982-02-07,1982,USA,California,M,,,False,11,Mañana,Blanco,Calf & ankle bitten
+1982-01-01,1982,ITALY,Tyrrhenian Sea,M,,,,,,Blanco,No details
+1982-01-01,1982,ITALY,Tyrrhenian Sea,M,,,False,,,Blanco,No injury
+1981-12-19,1981,USA,California,M,24,,True,,,Blanco,"FATAL, torso bitten "
+1981-12-13,1981,USA,Hawaii,M,,,False,,,Tigre,Right leg severely bitten
+1981-10-19,1981,SOUTH AFRICA,Western Cape Province,M,,,False,,,Blanco,Hand lacerated  PROVOKED INCIDENT
+1981-09-15,1981,USA,Florida,M,26,,True,,,Martillo,"FATAL, right calf bitten  "
+1981-07-18,1981,SOUTH AFRICA,Eastern Cape Province,M,32,,False,10,Mañana,Toro,7 lacerations to right foot
+1981-05-23,1981,SOUTH KOREA,Chungnam,F,27,,True,12,Tarde,Blanco,FATAL
+1981-05-05,1981,SOUTH AFRICA,Eastern Cape Province,M,24,,False,9,Mañana,Tigre,"Left leg bitten, surgically amputated"
+1981-03-04,1981,CHILE,Coquimbo,M,,,False,10,Mañana,Blanco,Foot & ankle bitten
+1981-03-01,1981,BRAZIL,Rio de Janeiro,NAN,,,,,,Blanco,
+1981-02-16,1981,AUSTRALIA,Western Australia,M,,,False,,,Martillo,Puncture wounds to foot
+1981-02-02,1981,USA,Florida,M,15,,False,13,Tarde,Martillo,Lacerations & punctures in left calf & ankle
+1981-01-30,1981,USA,Florida,M,25,,False,,,Tigre,3 small punctures in scalp & ripped nostril
+1981-01-01,1981,AUSTRALIA,New South Wales,M,27,,False,7,Mañana,Tigre,"No injury, ski bitten"
+1980-11-24,1980,REUNION,Grand'Anse,M,22,,False,15,Tarde,Blanco,Bitten twice
+1980-10-27,1980,USA,Oregon,M,29,,False,15,Tarde,Blanco,Thigh lacerated
+1980-10-17,1980,USA,California,M,19,,False,9,Mañana,Blanco,No injury
+1980-08-04,1980,USA,Hawaii,M,,,False,,,Tigre,Torso bitten
+1980-04-01,1980,MEXICO,Sinaloa,F,13,,False,,,Tigre,Right calf bitten
+1980-03-29,1980,SOUTH AFRICA,KwaZulu-Natal,M,52,,True,,,Tigre,FATAL
+1980-03-11,1980,SOUTH AFRICA,Western Cape Province,M,61,,False,,,Martillo,Leg lacerated by netted shark PROVOKED INCIDENT
+1980-01-31,1980,SOUTH AFRICA,KwaZulu-Natal,M,24,,False,14,Tarde,Blanco,"Both hands & heel of left foot lacerated, right foot severed"
+1980-01-13,1980,SOUTH AFRICA,Eastern Cape Province,M,,,False,,,Martillo,Abrasion
+1980-01-05,1980,CHILE,Los Vilos,M,,,True,11,Mañana,Blanco,FATAL  
+,1980,GREECE,Island of Kos,M,,,,,,Blanco,Knee bitten
+1979-12-05,1979,PORTUGAL,Madeira Islands,M,19,,True,,,Blanco,FATAL
+1979-11-27,1979,USA,Oregon,M,20,,False,10,Mañana,Blanco,Multiple major Injuries
+1979-11-12,1979,SOUTH AFRICA,Western Cape Province,NAN,,,False,,,Blanco,"No injury to occupants; hooked shark tore out part of transom, bit skeg of motor and snapped the steel trace PROVOKED INCIDENT"
+1979-05-05,1979,SOUTH AFRICA,Western Cape Province,M,25,,False,14,Tarde,Blanco,Shark rammed diver after he shot it in the head  PROVOKED INCIDENT
+1979-03-11,1979,USA,California,M,,,False,10,Mañana,Blanco,"No injury, swim fin bitten"
+1978-12-12,1978,SOUTH AFRICA,KwaZulu-Natal,M,23,,True,16,Tarde,Blanco,"FATAL, legs bitten "
+1978-09-27,1978,SOUTH AFRICA,Western Cape Province,M,27,,False,16,Tarde,Blanco,"No injury, shark took his catch, then towed & pushed diver through the water "
+1978-09-16,1978,ITALY,Tyrrhenian Sea,M,,,False,11,Mañana,Blanco,No injury
+1978-02-19,1978,SOUTH AFRICA,Western Cape Province,M,,,False,,,Blanco,"No injury, rammed by shark"
+1977-12-19,1977,SOUTH AFRICA,Eastern Cape Province,M,18,,False,10,Mañana,Tigre,"Both legs bitten, 2 days later gangrene necessitated surgical amputation of left leg at mid-thigh"
+1977-12-01,1977,SOUTH AFRICA,Western Cape Province,NAN,,,False,,,Blanco,No injury to occupant: shark bit boat's port chine
+1977-10-30,1977,SOUTH AFRICA,Western Cape Province,M,25,,False,16,Tarde,Blanco,"No injury, shark bit speargun & pushed diver through the water"
+1977-08-31,1977,AUSTRALIA,South Australia,M,17,,False,16,Tarde,Blanco,"Board rammed &  bitten, left thigh lacerated"
+1977-08-19,1977,SOUTH AFRICA,Western Cape Province,M,,,False,13,Tarde,Blanco,"Shark leapt into boat, pinning Mamacos beneath and fracturing his pelvis, then trashed the boat rendering it inoperable"
+1977-08-14,1977,USA,California,M,20,,False,11,Mañana,Blanco,Leg lacerated
+1977-06-26,1977,USA,Florida,M,27,,False,,,Toro,"PROVOKED INCIDENT    Diver poked shark with spear, then shark bit his right foot"
+1977-06-06,1977,USA,Texas,M,25,,False,,,Toro,Lacerations to wrist
+1976-12-18,1976,USA,California,M,29,,False,9,Mañana,Blanco,Buttocks & hip bitten
+1976-11-27,1976,SOUTH AFRICA,Western Cape Province,M,19,,False,16,Tarde,Blanco,Torso bitten
+1976-11-25,1976,USA,Florida,M,19,,False,10,Mañana,Toro,"Right arm severed 1"" below elbow with extensive tissue loss 3"" above elbow"
+1976-11-01,1976,SOUTH AFRICA,Western Cape Province,NAN,,,False,,,Blanco,"No injury to occupants. Hooked shark bit boat's transom, PROVOKED INCIDENT"
+1976-10-27,1976,SOUTH AFRICA,Western Cape Province,NAN,,,False,,,Blanco,"No injury to occupants, shark leapt on bow of boat"
+1976-10-18,1976,USA,California,M,25,,False,14,Tarde,Blanco,Leg bitten 
+1976-10-06,1976,SOUTH AFRICA,Eastern Cape Province,M,20,,False,11,Mañana,Blanco,Left thigh lacerated
+1976-09-06,1976,USA,Florida,M,15,,False,14,Tarde,Tigre,Laceration to left lower leg
+1976-08-24,1976,USA,Oregon,M,19,,False,14,Tarde,Blanco,"No injury, board bitten"
+1976-03-09,1976,SOUTH AFRICA,Western Cape Province,NAN,,,False,,,Blanco,Shark breached hull of boat
+1976-03-02,1976,SOUTH AFRICA,Western Cape Province,NAN,,,False,,,Blanco,"Shark leapt into boat, hitting Fanie Schoeman on his back before sliding into the sea"
+1976-02-03,1976,SOUTH AFRICA,Western Cape Province,NAN,,,False,,,Blanco,"No injury to occupants, shark rammed bow, driving its head into the hull"
+1976-01-11,1976,SOUTH AFRICA,Western Cape Province,NAN,,,False,7,Mañana,Blanco,"Hooked shark leapt onboard & into fish well, which it smashed PROVOKED INCIDENT"
+1975-12-06,1975,USA,California,M,27,,False,12,Tarde,Blanco,Leg bitten
+1975-08-17,1975,SOUTH AFRICA,Eastern Cape Province,M,19,,False,13,Tarde,Blanco,Left leg & surfboard bitten
+1975-08-09,1975,USA,California,M,44,,False,13,Tarde,Blanco,"Shoulder, arm & hand lacerated"
+1975-07-30,1975,AUSTRALIA,Tasmania,M,37,,True,,,Blanco,FATAL
+1975-07-23,1975,USA,California,M,23,,False,14,Tarde,Blanco,Legs bitten
+1975-07-19,1975,USA,California,M,34,,False,13,Tarde,Blanco,"No injury, swim fin torn"
+1975-04-05,1975,SOUTH AFRICA,Western Cape Province,M,,,False,,,Blanco,"No injury, rammed by shark"
+1975-02-10,1975,AUSTRALIA,South Australia,M,12,,True,18,Tarde,Blanco,Right leg  severed FATAL
+1974-12-21,1974,AUSTRALIA,South Australia,M,,,False,,,Blanco,No injury to occupant
+1974-09-28,1974,USA,California,M,17,,False,7,Mañana,Blanco,"Thigh, lower back and surfboard bitten"
+1974-09-14,1974,USA,California,M,29,,False,13,Tarde,Blanco,Major injuries
+1974-09-02,1974,USA,California,M,41,,False,17,Tarde,Blanco,Minor injuries to hand
+1974-09-02,1974,USA,California,M,48,,False,17,Tarde,Blanco,Minor bite on foot & swimfin
+1974-09-01,1974,USA,Oregon,M,24,,False,,,Blanco,No injury
+1974-08-10,1974,CROATIA, Split-Dalmatia County,M,21,,True,15,Tarde,Blanco,Foot severed FATAL
+1974-08-05,1974,USA,California,M,,,False,,,Blanco,Minor injuries to hand
+1974-07-26,1974,USA,California,M,36,,False,,,Blanco,Minor bite on heel & swim fin bitten
+1974-05-26,1974,USA,California,M,45,,False,11,Mañana,Blanco,Leg bitten
+1974-03-01,1974,SOUTH AFRICA,Western Cape Province,NAN,,,False,,,Blanco,"No injury to occupant, shark holed boat"
+1974-02-01,1974,SOUTH AFRICA,Western Cape Province,NAN,,,False,,,Blanco,"No injury to occupant, but  a shark chasing a hooked fish holed his boat above the waterline"
+,1974,SOUTH AFRICA,Western Cape Province,NAN,,,False,,,Blanco,"No injury,  shark leapt into boat & bit one of the boat's seats"
+1974-01-09,1974,AUSTRALIA,South Australia,M,26,,True,,,Blanco,"FATAL, right leg severed  "
+1973-09-14,1973,BAHAMAS,Grand Bahama Island,M,11,,False,14,Tarde,Toro,Left hand & forearm lacerated
+1973-09-09,1973,MEXICO,Baja California,M,37,,True,16,Tarde,Blanco,"FATAL, leg bitten "
+1973-09-01,1973,EGYPT,Red Sea,M,,,False,,,Tigre,Massive wound on right thigh with femur exposed
+1973-01-01,1973,PALAU,Aulong Island,M,,,False,,,Tigre,"No injury, shark grabbed scuba tank and descended to 110' before releasing him "
+1972-12-24,1972,SOUTH AFRICA,Western Cape Province,M,,,False,9,Mañana,Blanco,"No injury, swim fin bitten"
+1972-09-09,1972,USA,California,M,,,False,10,Mañana,Blanco,Legs & board bitten
+1972-08-08,1972,AUSTRALIA,Tasmania,M,45,,False,,,Blanco,Left foot bitten
+1972-05-28,1972,USA,California,M,32,,False,13,Tarde,Blanco,Bitten on legs & buttock
+1972-04-16,1972,WESTERN SAMOA,Upolu Island,M,25,,True,,,Tigre,FATAL
+1972-01-01,1972,MOZAMBIQUE,Gaza,M,24,,False,16,Tarde,Blanco,"Leg severed at knee,  hand severed, arms, torso & buttock severely lacerated"
+1972-01-01,1972,FRANCE,Antibes,NAN,,,False,,,Blanco,Shoulder injured
+1971-12-16,1971,SOUTH AFRICA,Western Cape Province,F,16,,False,14,Tarde,Blanco,Right forearm bitten
+1971-10-02,1971,USA,California,M,30,,False,14,Tarde,Blanco,Bitten on legs
+1971-09-07,1971,CROATIA,Istria County,M,34,,True,10,Mañana,Blanco,FATAL
+1971-07-19,1971,USA,California,M,,,False,,,Blanco,"Major injuries to head, buttocks & back"
+1971-06-30,1971,SOUTH AFRICA,Western Cape Province,M,21,,False,15,Tarde,Blanco,Leg & surfboard bitten
+1971-04-11,1971,SOUTH AFRICA,Western Cape Province,M,,,True,11,Mañana,Blanco,"FATAL, multiple bites "
+1971-03-30,1971,NEW ZEALAND,South Island,M,16,,False,10,Mañana,Blanco,Lacerations to left leg 
+1971-01-01,1971,USA,California,M,,,False,,,Blanco,"Minor injury, arc of tooth impressions in wetsuit"
+1971-01-01,1971,AUSTRALIA,South Australia,M,15,,False,,,Blanco,Severe lacerations to thigh
+1971-01-01,1971,CROATIA,Istria ,M,,,,,,Blanco,FATAL
+,1970,ITALY,Sardinia,M,,,False,,,Blanco,No injury
+1970-01-01,1970,CROATIA,Zadar County,M,,,,,,Blanco,No details
+1969-09-06,1969,USA,California,M,53,,False,11,Mañana,Blanco,Leg & ankle severely bitten
+1969-07-20,1969,USA,California,M,,,False,13,Tarde,Blanco,"Foot bitten, minor injury"
+1969-03-09,1969,USA,Hawaii,M,16,,False,17,Tarde,Blanco,Leg & surfboard bitten
+1968-12-25,1968,NEW ZEALAND,South Island,M,17,,False,17,Tarde,Blanco,"Hit in face by shark, arm abraded, surfboard bitten"
+1968-12-09,1968,AUSTRALIA,South Australia,M,,,False,,,Blanco,Survived
+1968-12-02,1968,SOUTH AFRICA,KwaZulu-Natal,M,28,,False,,,Martillo,"No injury, left elbow & torso bumped by sharks"
+1968-10-13,1968,USA,Florida,M,,,False,,,Toro,Swim fin bitten
+1968-09-15,1968,NEW ZEALAND,South Island,M,24,,True,10,Mañana,Blanco,"FATAL, left leg bitten, femoral artery severed  "
+1968-08-24,1968,USA,Florida,NAN,,,False,16,Tarde,Martillo,"Shark bumped Colleen, the nudged Scott, then bit Frisbee & swam away with it"
+1968-07-27,1968,USA,California,M,25,,False,11,Mañana,Blanco,Major injury to torso
+1967-08-19,1967,AUSTRALIA,Western Australia,M,23,,True,11,Mañana,Blanco,"FATAL, ""bitten in two"""
+1967-06-01,1967,ITALY,Sicily,M,,,False,,,Blanco,"No injury to occupants,  harpooned shark sank boat PROVOKED INCIDENT"
+1967-03-19,1967,SOUTH AFRICA,KwaZulu-Natal,M,32,,False,6,Mañana,Blanco,"Punctures in right buttock & thigh, abrasion on right forearm"
+1967-03-09,1967,NEW ZEALAND,South Island,M,21,,True,19,Noche,Blanco,"FATAL, seen taken by a shark "
+1967-01-27,1967,SOUTH AFRICA,Western Cape Province,NAN,,,False,,,Blanco,"Holed & sank boat, 1 man flung into water but ignored by the shark"
+1967-01-22,1967,SOUTH AFRICA,Western Cape Province,M,,,False,,,Tigre,"No injury, shark bit support boat, removing pieces of wood after Gerricke shot it  PROVOKED INCIDENT"
+1966-08-16,1966,CROATIA,Primorje-Gorski Kotar County ,M,33,,True,,,Blanco,FATAL
+1966-07-31,1966,USA,Texas,M,16,,False,,,Tigre,Dorsum of right foot grazed
+1966-06-11,1966,USA,Florida,M,18,,False,9,Mañana,Martillo,Hand & forearm bitten by hooked shark PROVOKED INCIDENT
+1966-05-20,1966,AUSTRALIA,,M,38,,True,,,Blanco,"FATAL, other human remains bitten by sharks, 13 people missing"
+1966-03-20,1966,AUSTRALIA,New South Wales,NAN,,,False,,,Blanco,"No injury to occupants, hooked shark rammed boat, PROVOKED INCIDENT"
+1966-02-27,1966,AUSTRALIA,New South Wales,M,13,,False,14,Tarde,Blanco,"Left leg & lower right leg bitten, taken ashore with shark still grasping his leg"
+1966-01-22,1966,USA,California,M,29,,False,10,Mañana,Blanco,"Hand, arm & thigh bitten"
+1966-01-05,1966,USA,Florida,M,35,,False,16,Tarde,Martillo,Thigh gashed
+1965-04-29,1965,USA,Florida,M,49,,False,15,Tarde,Toro,"Thighs abraded, puncture wounds in dorsal surface of left hand"
+1965-04-10,1965,USA,Florida,M,28,,False,11,Mañana,Blanco,Left hand severely lacerated
+1965-04-04,1965,PALAU,Western Caroline Islands,M,8,,False,15,Tarde,Tigre,Right leg bitten
+1965-01-23,1965,SOUTH AFRICA,KwaZulu-Natal,M,22,,False,13,Tarde,Blanco,"No injury, ski bitten"
+1964-11-29,1964,AUSTRALIA,Victoria ,M,25,,False,14,Tarde,Blanco,Left leg severed
+1964-11-13,1964,AUSTRALIA,New South Wales,M,25,,False,,,Blanco,"Shark made threat display, then diver hit it with powerhead PROVOKED INCIDENT"
+1964-08-08,1964,USA,Florida,M,28,,False,12,Tarde,Martillo,"No injury, shark hit scuba tank"
+1964-07-08,1964,USA,Florida,M,,,False,,,Blanco,"No injury to occupant, hooked shark rammed & bit boat PROVOKED INCIDENT"
+1964-05-08,1964,FIJI,Vita Levu,M,35,,True,11,Mañana,Tigre,"FATAL, buttocks, lower abdomen & genitalia removed  "
+,1964,FIJI,,NAN,,,False,,,Tigre,Hooked shark bit boat PROVOKED INCIDENT
+1964-02-10,1964,NEW ZEALAND,North Island,M,26,,False,18,Tarde,Blanco,"No injury to diver, shark bit speargun"
+1954-02-08,1964,SOUTH AFRICA,Western Cape Province,M,25,,False,8,Mañana,Blanco,Right ankle lacerated
+1964-02-05,1964,NEW ZEALAND,South Island,M,19,,True,6,Mañana,Blanco,"FATAL, both legs bitten & right leg severed at knee "
+1964-02-01,1964,USA,Florida,M,12,,False,,,Martillo,No injury
+1964-01-21,1964,SOUTH AFRICA,Western Cape Province,NAN,,,False,11,Mañana,Blanco,"No injury to occupants, shark holed  boat"
+1964-01-11,1964,USA,California,M,21,,False,12,Tarde,Blanco,Leg & thigh bitten
+,1964,PAPUA NEW GUINEA,New Britain,M,,,True,,,Tigre,FATAL
+1963-12-20,1963,SOUTH AFRICA,Western Cape Province,M,,,False,12,Tarde,Blanco,Foot lacerated
+1963-12-08,1963,AUSTRALIA,South Australia,M,23,,False,12,Tarde,Blanco,Torso & hand lacerated
+1963-12-04,1963,NEW BRITAIN,"South Coast, East New Britain",M,22,,True,,,Tigre,"FATAL, leg severely bitten"
+1963-11-30,1963,PAPUA NEW GUINEA,Gulf Province,F,18,,False,14,Tarde,Tigre,Left arm lacerated  PROVOKED INCIDENT
+1963-11-28,1963,FIJI, Lau Province,F,21,,False,11,Mañana,Tigre,Elbow bitten
+1963-11-14,1963,AUSTRALIA,Queensland,M,,,False,,,Blanco,"No injury to occupant, netted shark rammed & bit boat PROVOKED INCIDENT"
+1963-09-29,1963,CHILE,,M,,,True,11,Mañana,Blanco,FATAL
+1963-07-28,1963,FEDERATED STATES OF MICRONESIA,Eastern Caroline Islands,M,26,,False,8,Mañana,Tigre,Upper left arm bitten
+1963-06-01,1963,GREECE,Thessaly,F,42,,True,16,Tarde,Blanco,FATAL
+1963-02-08,1963,FIJI,Lomaiviti  Island Group,M,28,,False,10,Mañana,Blanco,Left arm bitten
+1963-01-28,1963,AUSTRALIA,New South Wales,F,32,,True,13,Tarde,Toro,"FATAL, right femoral artery severed, thigh, calf, buttock & left hand bitten  "
+1963-01-04,1963,AUSTRALIA,South Australia,NAN,,,False,,,Blanco,No injury to occupants; hooked shark slammed into side of boat PROVOKED INCIDENT
+1962-12-09,1962,AUSTRALIA,South Australia,M,16,,True,14,Tarde,Blanco,"FATAL, right leg bitten thigh to calf  "
+1962-11-11,1962,USA,California,M,24,,False,12,Tarde,Blanco,"Arm, hand, buttock, leg and thigh bitten"
+1962-09-02,1962,ITALY,Tyrrhenian Sea,M,28,,True,10,Mañana,Blanco,"FATAL, multiple injuries to both legs  "
+,1962,ITALY,Tyrrhenian Sea,M,,,False,,,Blanco,No injury
+1962-02-05,1962,SOUTH AFRICA,KwaZulu-Natal,M,13,,True,16,Tarde,Blanco,"FATAL, tissue removed from thigh, femoral artery severed "
+1962-01-14,1962,USA,California,M,29,,False,10,Mañana,Blanco,Buttock bitten & major leg wound
+1962-01-11,1962,PAPUA NEW GUINEA,"10ºS, 142ºE",M,24,,False,12,Tarde,Blanco,Left leg & buttocks bitten
+1962-01-10,1962,AUSTRALIA,South Australia,NAN,,,False,,,Blanco,No injury to fisherman Alf Dean & other occupants; shark bit stern of boat
+1961-09-24,1961,CROATIA,Primorje-Gorski Kotar County ,M,19,,True,,,Blanco,"FATAL, hand severed & legs bitten  "
+1961-08-20,1961,USA,California,M,16,,False,9,Mañana,Blanco,"Foot, leg  & groin lacerated"
+1961-08-16,1961,USA,South Carolina,M,19,,False,8,Mañana,Blanco,"Right arm bitten. Left leg bitten, surgically amputated "
+1961-07-07,1961,AUSTRALIA,Queensland,NAN,,,False,,,Blanco,"No injury to occupant, hooked shark bit boat's rudder PROVOKED INCIDENT"
+1961-07-01,1961,ITALY,Adriatic Sea,M,21,,False,14,Tarde,Blanco,Foot bitten
+,1961,USA,Florida,M,,,False,,,Martillo,"No injury to diver or occupants of the boat, shark butted boat "
+1961-05-21,1961,USA,California,M,20,,False,8,Mañana,Blanco,"No injury, wetsuit bitten"
+1961-05-15,1961,USA,Florida,M,52,,False,11,Mañana,Martillo,Middle finger of left hand & right forearm lacerated
+1961-04-16,1961,USA,Florida,M,22,,False,,,Tigre,Thigh bitten
+1961-03-12,1961,AUSTRALIA,South Australia,M,21,,False,14,Tarde,Blanco,Left leg bitten  & left forearm lacerated
+1961-01-22,1961,SOUTH AFRICA,KwaZulu-Natal,M,15,,False,14,Tarde,Blanco,Left thigh bitten 
+1961-01-06,1961,SOUTH AFRICA,KwaZulu-Natal,M,13,,False,19,Noche,Blanco,"Right foot, leg and hand bitten"
+1961-01-06,1961,AUSTRALIA,Northern Territory,M,,,False,,,Martillo,Finger bitten by hooked shark PROVOKED INCIDENT
+1960-12-24,1960,SOUTH AFRICA,KwaZulu-Natal,M,25,,True,16,Tarde,Blanco,"FATAL, legs severed "
+1960-12-01,1960,AUSTRALIA,Queensland,M,,,False,,,Toro,Bitten & survived
+1960-11-01,1960,SOUTH AFRICA,Western Cape Province,NAN,,,False,,,Blanco,"No injury to occupants, shark bit 45 cm hole in hull"
+1960-10-24,1960,SOUTH AFRICA,Western Cape Province,NAN,,,False,,,Blanco,"No injury to occupants, shark rammed & bit  boat"
+1960-10-01,1960,SOUTH AFRICA,Western Cape Province,NAN,,,False,,,Blanco,"Shark rammed boat, breaching its hull"
+1960-06-27,1960,NEW ZEALAND,Cook Strait,NAN,,,False,,,Blanco,Harpooned shark bit boat PROVOKED INCIDENT
+1960-05-19,1960,USA,California,F,16,,False,13,Tarde,Blanco,"Left leg bitten, surgically amputated below the knee"
+1960-04-30,1960,SOUTH AFRICA,KwaZulu-Natal,M,16,,False,15,Tarde,Blanco,Multiple major injuries
+1960-04-24,1960,USA,California,M,48,,False,14,Tarde,Blanco,Foot & swim fin bitten 
+1960-04-12,1960,AUSTRALIA,New South Wales,M,17,,False,,,Blanco,Right arm & side bruised
+1960-04-10,1960,AUSTRALIA,Western Australia,M,,,False,,,Tigre,"Bruises & minor injuries from reef, not the shark PROVOKED INCIDENT"
+1960-04-01,1960,AUSTRALIA,South Australia,NAN,,,False,,,Blanco,Hooked shark bit stern  PROVOKED INCIDENT
+1960-04-01,1960,SOUTH AFRICA,Western Cape Province,NAN,,,False,,,Blanco,Shark rammed boat & bit transom
+1960-02-19,1960,PAPUA NEW GUINEA,Central Province,M,26,,True,,,Tigre,"FATAL, legs bitten "
+1960-02-10,1960,AUSTRALIA,New South Wales,NAN,,,False,,,Tigre,No injury to occupants. Hooked shark rammed boat  PROVOKED INCIDENT
+1960-01-16,1960,AUSTRALIA,New South Wales,M,13,,True,15,Tarde,Toro,"FATAL, right leg severed above knee, surgically amputated but died 9 days later "
+1959-12-29,1959,AUSTRALIA,Queensland,NAN,,,False,,,Tigre,No injury to occupants
+1959-10-04,1959,USA,California,M,30,,False,15,Tarde,Blanco,"Ankle twisted, swim fin bitten"
+1959-10-01,1959,FIJI,Kadavu,M,36,,False,12,Tarde,Tigre,forearm abraded
+1959-09-26,1959,USA,Florida,M,30,,False,17,Tarde,Martillo,"During the night both hands and feet were bitten, rescued next day after spending 17 hours in the sea."
+1959-09-26,1959,USA,South Carolina,NAN,,,,,,Blanco,
+,1959,USA,California,NAN,,,False,15,Tarde,Blanco,"No injury to occupant, shark struck stern of boat"
+,1959,AZORES,,NAN,,,False,,,Blanco,No injury to occupants; shark bit rudder
+1959-08-13,1959,USA,California,M,32,,False,,,Martillo,"No injury, PROVOKED INCIDENT"
+1959-07-30,1959,USA,California,NAN,,,False,16,Tarde,Blanco,"No injury to occupants, shark charged boat after being shot twice with pistol and speared PROVOKED INCIDENT"
+1959-07-28,1959,USA,California,M,25,,False,19,Noche,Martillo,"14 punctures on right thigh, swim trunks torn"
+1959-07-25,1959,USA,California,NAN,21,,False,,,Martillo,No injury to occupant
+1959-07-23,1959,USA,California,NAN,,,False,,,Martillo,"No injury to occupant, shark rammed boat"
+1959-06-14,1959,USA,California,M,33,,True,17,Tarde,Blanco,"FATAL, body not recovered"
+1959-05-30,1959,SOUTH AFRICA,Eastern Cape Province,M,23,,False,,,Blanco,"No injury, diver shot shark & it bit his speargun PROVOKED INCIDENT"
+1959-05-07,1959,USA,California,M,18,,True,17,Tarde,Blanco,"FATAL, left arm bitten, right arm partly severed, deep lacerations of left shoulder & chest "
+1959-05-03,1959,USA,Florida,M,19,,False,10,Mañana,Tigre,Lacerated hip & hands
+1959-04-11,1959,AUSTRALIA,Torres Strait,M,43,,False,,,Tigre,Left hand lacerated when he tried to ward off shark
+1959-03-01,1959,USA,Florida,M,,,False,,,Tigre,Boat followed shark; shark holed boat
+1959-01-15,1959,SOUTH AFRICA,Western Cape Province,M,18,,False,16,Tarde,Blanco,Thigh & both wrists lacerated
+,1959,SOUTH KOREA,South Chungcheong Province,M,,,True,,,Blanco,FATAL
+1959-01-01,1959,ATLANTIC OCEAN,,M,,,False,,,Tigre,Hooked shark bit his arm PROVOKED INCIDENT
+1958-12-28,1958,TURKEY,Ahirkapi coast,NAN,,,,,,Blanco,Boat damaged
+1958-12-13,1958,USA,Hawaii,M,15,,True,13,Tarde,Tigre,"FATAL, leg severed  "
+1958-12-12,1958,AMERICAN SAMOA,Tutuila Island,M,22,,True,11,Mañana,Tigre,"FATAL, left thigh & hip bitten  "
+1958-11-05,1958,USA,California,NAN,,,False,,,Blanco,"No injury to occupant, shark chasing barracuda tied to the stern rammed skiff & slashed the motor"
+1958-08-31,1958,MEXICO,Baja California,NAN,,,False,7,Mañana,Martillo,Shark tried to bite prop twice
+1958-07-27,1958,USA,Florida,M,12,,False,16,Tarde,Tigre,3 lacerations on leg
+1958-07-27,1958,USA,Florida,M,8,,False,16,Tarde,Tigre,"Left hand and  leg bitten, leg surgically amputated below hip"
+1958-07-01,1958,BAHAMAS,Abaco Islands,M,36,,False,12,Tarde,Tigre,"No injury, shark went for diver's leg & missed, diver hit shark on head with speargun & shark bit speargun "
+1958-06-24,1958,USA,Florida,M,17,,False,17,Tarde,Tigre,Lower left leg & foot bitten
+1958-01-09,1958,SOUTH AFRICA,KwaZulu-Natal,M,,,True,7,Mañana,Blanco,FATAL
+1958-01-01,1958,SOUTH AFRICA,Western Cape Province,NAN,,,False,,,Blanco,No injury to occupants; shark bit propeller
+1957-08-01,1957,USA,Florida,M,,,False,,,Toro,Legs bitten PROVOKED INCIDENT
+1957-07-24,1957,USA,California,M,,,False,,,Blanco,Diver jabbed shark with spear and it make a threat display. No injury PROVOKED INCIDENT
+1957-07-15,1957,USA,North Carolina,M,57,,True,12,Tarde,Blanco,"FATAL, knee bitten  "
+1957-04-28,1957,USA,California,M,25,,True,13,Tarde,Blanco,"FATAL, seen with arm in mouth of shark. Body not recovered.  "
+1957-01-01,1957,USA,Florida,M,,,False,,,Toro,"Shark struck helmet, no injury"
+1957-01-01,1957,IRAN,Karun River,M,,,False,,,Toro,Survived
+1956-12-26,1956,PAPUA NEW GUINEA,Milne Bay Province,M,19,,True,13,Tarde,Tigre,"FATAL, left leg severed at hip, left torso removed "
+1956-10-27,1956,SOUTH AFRICA,Western Cape Province,M,29,,False,,,Blanco,Right heel lacerated & swim fin removed by shark
+1956-09-01,1956,MAYOTTE,Mozambique Channel,M,,,True,,,Tigre,FATAL
+1956-09-01,1956,ITALY,Tyrrenian Sea,M,,,False,,,Blanco,Survived
+1956-08-15,1956,USA,California,M,10,,False,16,Tarde,Blanco,"Lacerated thigh, hand & shoulder"
+1956-08-01,1956,MALTA,Congreve Channel,NAN,,,False,,,Blanco,"No injury to occupants, but Emmanuel ""later died of shock in hospital"""
+1956-07-20,1956,MALTA,St. Thomas Bay,M,40,,True,,,Blanco,FATAL
+,1956,SOUTH AFRICA,Western Cape Province,NAN,,,False,,,Blanco,"No injury, sharks bit propellers, etc"
+1956-03-25,1956,ITALY,Ligurian Sea,NAN,,,,,,Blanco,No details
+1956-01-01,1956,GREECE,Corfu Island,F,15,,True,,,Blanco,FATAL
+1955-08-26,1955,CROATIA, Primorje-Gorski Kotar County,F,32,,True,,,Blanco,FATAL
+1955-07-15,1955,MONTENEGRO,Adriatic Sea,M,,,True,,,Blanco,FATAL
+1955-02-06,1955,USA,California,M,19,,False,12,Tarde,Blanco,"Swimfin & 2 wool socks removed by shark, suit torn"
+1955-02-05,1955,AUSTRALIA,New South Wales,M,25,,True,14,Tarde,Blanco,"FATAL, legs bitten "
+1954-10-02,1954,CROATIA,Zadar County,NAN,,,,,,Blanco,No details
+1954-01-22,1954,ARGENTINA,Buenos Aires Province,M,18,,False,13,Tarde,Blanco,"Arm & left calf bitten, right leg lacerated"
+1954-01-01,1954,IRAN,Karun River,M,,,True,,,Toro,FATAL
+,1954,IRAN,Karun River,F,,,True,,,Toro,FATAL
+,1954,IRAN,Karun River,M,,,False,,,Toro,Survived
+1953-09-02,1953,USA,Hawaii,M,,,False,,,Martillo,Leg & foot bitten
+1953-07-09,1953,CANADA,Nova Scotia,M,,,False,,,Blanco,Burns drowned as result of attack on boat
+1953-04-01,1953,IRAN,Karun River,M,,,False,,,Toro,Arm severed
+1953-04-01,1953,IRAN,Karun River,M,,,False,,,Toro,Right forearm severed at the elbow
+1953-03-01,1953,PAPUA NEW GUINEA,Milne Bay Province,M,,,True,,,Tigre,"FATAL, arm & leg severed & shark smashed at his body with its tail  "
+1952-12-07,1952,USA,California,M,17,,True,14,Tarde,Blanco,"FATAL, leg lacerated  "
+1952-07-27,1952,USA,Florida,NAN,,,False,,,Martillo,No injury to occupants. Shark chasing fish leapt into skiff & flopped out
+1952-07-05,1952,USA,Puerto Rico,M,,,False,11,Mañana,Tigre,Leg lacerated & bone fractured 
+1952-05-27,1952,USA,California,M,,,False,10,Mañana,Blanco,Foot & swimfin bitten
+1952-04-06,1952,AUSTRALIA,South Australia,NAN,,,False,,,Blanco,No injury to fisherman Alf Dean & other occupants;
+1952-03-30,1952,NETHERLANDS ANTILLES,Curacao,M,,,False,,,Toro,"Buttock bitten, tissue removed"
+1951-11-29,1951,SOUTH AFRICA,KwaZulu-Natal,M,23,,False,13,Tarde,Blanco,Thigh bruised & abraded
+1951-11-28,1951,SOUTH AFRICA,KwaZulu-Natal,M,24,,False,17,Tarde,Blanco,"Leg severed below knee, defense wounds on hand"
+1951-08-17,1951,GREECE,Corfu Island,M,18,,False,,,Blanco,Injured but survived
+1951-08-17,1951,GREECE,Corfu Island,F,16,,True,,,Blanco,"FATAL, body not recovered Another man was also injured by the shark at same time (see below)"
+1950-11-25,1950,AUSTRALIA,Queensland,M,21,,False,17,Tarde,Blanco,Part of buttocks & fingers severed
+1950-10-28,1950,USA,California,M,31,,False,12,Tarde,Blanco,Right leg lacerated
+,1950,AUSTRALIA,South Australia,NAN,,,False,,,Blanco,No injury to occupants
+1950-07-10,1950,USA,Texas,M,11,,False,,,Martillo,Laceration to leg
+1950-05-01,1950,ITALY,Tyrrhenian Sea,M,,,False,,,Blanco,No injury
+1950-02-11,1950,SOUTH AFRICA,KwaZulu-Natal,M,14,,True,14,Tarde,Blanco,"FATAL, body not recovered "
+1950-01-01,1950,AUSTRALIA,Tasmania,M,,,False,,,Blanco,"No injury to occupant, shark bit side of dinghy"
+,1950,INDONESIA,Jakarta Harbour,M,,,True,15,Tarde,Tigre,FATAL
+,1950,USA,Hawaii,M,,,,,,Blanco,"No injury from shark, scraped chest climbing out on reef"
+1949-01-23,1949,AUSTRALIA,New South Wales,M,20,,True,15,Tarde,Blanco,FATAL
+,1949,ITALY,Tyrrhenian Sea,M,,,False,,,Blanco,No injury to occupant
+1948-12-27,1948,AUSTRALIA,Western Australia,M,17,,True,,,Tigre,"FATAL, disappeared while swimming  "
+1947-12-01,1947,SENEGAL,,M,,,True,11,Mañana,Tigre,"FATAL, right thigh bitten "
+1947-06-16,1947,AUSTRALIA,New South Wales,NAN,,,False,,,Tigre,"No injury to occupants, shark bumped & lifted dinghy"
+1946-02-10,1946,AUSTRALIA,Western Australia,M,18,,False,12,Tarde,Blanco,"Leg bitten, surgically amputated"
+1945-01-01,1945,IRAQ,Basrah,M,15,,False,12,Tarde,Toro,Left foot bitten
+1944-12-02,1944,USA,Florida,NAN,,,False,,,Tigre,"No injury to occupants. After being prodded with an oar, shark struck bow and sank boat PROVOKED INCIDENT"
+,1944,SOUTH AFRICA,Western Cape Province,M,17,,True,16,Tarde,Blanco,"FATAL, body not recovered"
+1944-05-04,1944,PANAMA,Caribbean Sea,M,,,True,,,Blanco,"FATAL. His back was bitten as he was being towed to ship by rescuer, Lieut (j.g.) Stanley Kurta, then the shark pulled him below the surface. "
+1944-04-01,1944,NICARAGUA,Lake Nicaragua (fresh water),NAN,,,True,,,Toro,Some killed & others severely injured
+1943-09-23,1943,PANAMA,Gulf of Panama,M,20,,True,14,Tarde,Blanco,"FATAL, left leg  & shoulder bitten  "
+1943-06-16,1943,AUSTRALIA,Tasmania,M,18,,False,,,Blanco,"No injury to occupant, shark grabbed rudder and dragged the dinghy stern-first"
+1942-12-26,1942,AUSTRALIA,New South Wales,F,15,,True,10,Mañana,Toro,"FATAL, legs bitten "
+1942-11-01,1942,SOUTH AFRICA,Western Cape Province,M,18,,True,12,Tarde,Blanco,"FATAL, body not recovered"
+1942-09-12,1942,AUSTRALIA,Queensland,M,24,,False,16,Tarde,Tigre,"Right foot severed & calf removed, leg  surgically amputated below the knee"
+,1942,SOUTHWEST PACIFIC OCEAN,,M,,,True,,,Tigre,"FATAL, 2 of the 9 airmen killed by sharks"
+1942-01-04,1942,AUSTRALIA,New South Wales,F,28,,True,15,Tarde,Toro,"FATAL, bitten in two  "
+1942-01-01,1942,SOUTHWEST PACIFIC OCEAN,,M,,,False,,,Tigre,"No injury to occupants, They fought off sharks & killed one with an automatic. Rescued 34 days later"
+1941-12-07,1941,SOUTH ATLANTIC OCEAN,,NAN,,,True,,,Tigre,"Only 170 survived, many of the crew were said to have been taken by sharks"
+1941-11-27,1941,SOUTH ATLANTIC OCEAN,Off Libya,M,23,,False,,,Tigre,Right hand severed
+1941-11-27,1941,SOUTH ATLANTIC OCEAN,Off Libya,M,,,False,,,Tigre,Lacerations to chest
+1940-03-31,1940,SOUTH AFRICA,KwaZulu-Natal,M,25,,True,11,Mañana,Blanco,"FATAL, right thigh & calf bitten "
+1940-02-22,1940,SOUTH AFRICA,KwaZulu-Natal,M,17,,True,16,Tarde,Blanco,"FATAL, left thigh & knee bitten "
+,1940,SLOVENIA,Adriatic Sea,NAN,,,False,,,Blanco,"No inury to occupants, shark struck boat"
+,1939,AUSTRALIA,Queensland,M,27,,False,,,Tigre,"Both thighs were lacerated, recovered at Thursday Island hospital"
+,1939,AUSTRALIA,Torres Strait ,M,,,False,,,Tigre,"Leg severely bitten, surgically amputated"
+,1939,BAHAMAS,Andros Islands,NAN,,,False,,,Tigre,"No injury to occupant, shark rammed bow of boat"
+1939-01-01,1939,CURACAO,Ascension Bay,M,,,False,,,Tigre,"No injury, left hip bumped by shark"
+1938-10-05,1938,AUSTRALIA,Queensland,M,18,,False,,,Tigre,Laceration to left foot & ankle by netted shark PROVOKED INCIDENT
+1938-06-17,1938,NICARAGUA,Lower San Juan River,NAN,,,True,,,Toro,"FATAL x 2, all other passengers & crew reached shore after a long swim"
+1938-05-15,1938,IRAQ,Basrah City,M,,,False,,,Toro,"Arm severed, but survived. Note: Some weeks later he was swimming at the same spot when a shark severed his right foot."
+1938-01-21,1938,AUSTRALIA,New South Wales,M,,,False,,,Tigre,Thumb bitten by landed shark PROVOKED INCIDENT
+1937-10-27,1937,AUSTRALIA,Queensland ,M,25,,True,17,Tarde,Tigre,FATAL
+1937-10-27,1937,AUSTRALIA,Queensland,M,18,,True,17,Tarde,Tigre,FATAL
+1937-08-31,1937,AUSTRALIA,Torres Strait,M,38,,False,11,Mañana,Tigre,"Head, neck & shoulder bitten (In 1918, he was also bitten by a shark off Cairns)"
+1937-02-13,1937,AUSTRALIA,New South Wales,M,32,,True,15,Tarde,Blanco,"FATAL, buttocks, ankle & right elbow bitten "
+1936-12-01,1936,AUSTRALIA,Victoria,M,50,,True,,,Blanco,"FATAL, his 2.4 m dinghy was found with 2' x 3' hole in its side & tooth fragments embedded in the planking"
+1936-08-24,1936,AUSTRALIA,Torres Strait,M,,,False,,,Tigre,Flexed right leg bitten
+1936-07-25,1936,USA,Massachusetts,M,16,,True,15,Tarde,Blanco,"FATAL, finger severed, thigh bitten He died during the surgical amputation of his leg   "
+1936-06-26,1936,AUSTRALIA,Torres Strait,M,16,,True,,,Tigre,FATAL
+1936-04-22,1936,AUSTRALIA,Queensland,M,16,,False,10,Mañana,Tigre,"Arm & back bitten, heel lacerated"
+1936-02-04,1936,AUSTRALIA,New South Wales,M,14,,True,15,Tarde,Blanco,"FATAL, taken by shark, body not recovered. Twenty months later, in October 1937, meshing (setting anti-shark gill nets) began  at metropolitan beaches"
+1936-01-22,1936,AUSTRALIA,South Australia,M,13,,True,18,Tarde,Blanco,FATAL 
+1935-05-19,1935,SOUTH AFRICA,KwaZulu-Natal,M,,,False,,,Blanco,"Foot bitten, required 1 week hospitalization PROVOKED INCIDENT"
+1935-03-20,1935,AUSTRALIA,Torres Strait,M,,,False,,,Tigre,Left thigh abraded & 3 fingers lacerated
+1935-03-09,1935,AUSTRALIA,New South Wales,M,27,,True,12,Tarde,Blanco,"FATAL, left thigh, buttock, left forearm bitten, finger removed  "
+1935-03-02,1935,AUSTRALIA,New South Wales,M,22,,True,17,Tarde,Blanco,"FATAL, thigh bitten "
+1935-01-24,1935,AUSTRALIA,New South Wales,M,,,False,,,Tigre,"No injury, sleeve ripped"
+1934-12-31,1934,AUSTRALIA,New South Wales,F,13,,False,20,Noche,Tigre,Hands severed
+1934-08-27,1934,ITALY,Sicily,M,,,False,,,Blanco,No injury to occupants
+1934-08-21,1934,CROATIA,Adriatic Sea,F,18,,True,,,Blanco,FATAL
+1934-02-24,1934,AUSTRALIA,Torres Strait,M,,,False,12,Tarde,Tigre,"Lacerated knee & foot, deep puncture wounds"
+1933-11-20,1933,AUSTRALIA,Torres Strait,M,,,True,,,Tigre,"FATAL, right buttock & thigh bitten "
+1933-11-18,1933,AUSTRALIA,Queensland,M,17,,False,,,Tigre,"Hand badly injured, right arm surgically amputated above wrist"
+,1933,USA,California,M,50,,False,,,Tigre,Survived
+1933-04-10,1933,USA,Florida,M,24,,True,,,Tigre,FATAL
+1932-07-02,1932,CANADA,Bay of Fundy,M,,,False,,,Blanco,"No injury to occupants, shark bumped boat repeatedly"
+1931-09-21,1931,USA,Florida,F,20,,False,,,Martillo,Right thigh & calf lacerated
+1931-06-13,1931,USA,Hawaii,M,,,False,,,Tigre,Tip of finger amputated PROVOKED INCIDENT
+1930-07-11,1930,USA,Florida,M,21,,False,,,Tigre,Arm lacerated from shoulder to wrist
+1930-02-15,1930,AUSTRALIA,Victoria,M,18,,True,16,Tarde,Blanco,FATAL
+1930-01-16,1930,SOUTH AFRICA,Western Cape Province,M,23,,False,17,Tarde,Blanco,Torso & arm bitten
+1929-12-26,1929,AUSTRALIA,New South Wales,M,16,,True,,,Tigre,"FATAL, left arm severed above elbow, lacerations on chest, right thumb severed, left thigh lacerated to bone, abrasions  "
+,1928,ITALY,Tuscany,M,,,False,,,Blanco,"No injury, shark approached the boat, he hit it with and oar and fell into the sea PROVOKED INCIDENT"
+,1928,AUSTRALIA,Queensland,M,,,False,,,Tigre,Severe lacerations to arm
+1927-12-28,1927,SOUTH AFRICA,Western Cape Province,M,17,,True,11,Mañana,Blanco,"FATAL, leg bitten  "
+1926-07-23,1926,ITALY,Golfo di Genova in the Ligurian Sea,M,20,,True,11,Mañana,Blanco,"FATAL, body was not recovered"
+1926-07-08,1926,USA,California,M,15,,False,,,Blanco,Leg & hand lacerated and dog bitten
+1926-05-18,1926,USA,Hawaii,M,,,True,,,Blanco,"FATAL, gave sudden shriek & disappeared, body found in shark caught off Kahuka"
+1926-03-17,1926,AUSTRALIA,South Australia,F,,,True,15,Tarde,Blanco,FATAL
+1925-11-22,1925,AUSTRALIA,Western Australia,M,55,,True,15,Tarde,Tigre,"FATAL, thigh  & torso bitten, then shark charged rescue boat "
+1922-05-06,1922,SOUTH AFRICA,Western Cape Province,M,18,,False,,,Blanco,Abdomen & thigh bitten
+1922-03-02,1922,AUSTRALIA,New South Wales,M,21,,True,11,Mañana,Blanco,"FATAL, right hand severed, lacerations on left thigh & left hand, died in hospital of gas gangrene"
+1922-02-04,1922,AUSTRALIA,New South Wales,M,18,,True,15,Tarde,Blanco,"FATAL, both arms & shoulder bitten"
+1918-11-01,1918,SAN DOMINGO,60 miles north of San Domingo in the West Indies,M,,,True,,,Tigre,"FATAL, ""men snatched from rafts by sharks""   "
+1916-07-06,1916,USA,New Jersey,M,,,True,,,Blanco,FATAL
+1916-07-01,1916,USA,New Jersey,M,24,,True,17,Tarde,Blanco,"FATAL, left leg bitten"
+,1915,USA,Florida,M,,,,,,Blanco,"Fatal, drowning or scavenging"
+,1914,AUSTRALIA,South Australia,M,,,False,,,Tigre,Lacerations to foot
+1913-09-21,1913,USA,Florida,M,,,False,,,Martillo,Major injuries but survived
+1913-01-01,1913,AUSTRALIA,Torres Strait,M,,,False,,,Tigre,"Head, neck & left shoulder bitten"
+1912-01-01,1912,SPAIN,Balearics,M,,,True,,,Blanco,FATAL
+,1908,CROATIA,Adriatic Sea,F,,,True,,,Blanco,"FATAL, lost a leg"
+1907-12-21,1907,AUSTRALIA,New South Wales,M,,,True,,,Toro,FATAL
+1907-03-07,1907,MALTA,Harare Province,M,,,True,,,Blanco,"FATAL,            Fell overboard and were killed by shark"
+1905-08-24,1905,EGYPT,Suez Canal,M,,,,,,Tigre,Probable drowning & scavenging. 
+1903-01-10,1903,AUSTRALIA,New South Wales,M,,,True,,,Toro,FATAL
+1901-07-30,1901,SOUTH AFRICA,Western Cape Province,M,29,,True,14,Tarde,Blanco,"Right leg bitten & foot severed, right arm bitten, bones fractured & nearly severed FATAL"
+1898-01-01,1898,USA,South Carolina,M,15,,False,,,Blanco,Lacerations to left hand
+,1881,ITALY,Sicily,M,,,False,,,Blanco,Non-Fatal
+1880-11-25,1880,AUSTRALIA,Queensland,M,12,,True,,,Toro,"Feet bitten, surgically amputated FATAL"
+1879-01-01,1879,USA,Mississippi,M,,,True,,,Tigre,FATAL
+,1874,CANADA,Newfoundland,M,,,False,,,Blanco,Shark bit & tipped the dory
+,1873,AUSTRALIA,Queensland,M,,,False,,,Martillo,Survived
+,1869,AUSTRALIA,South Australia,M,,,False,,,Tigre,Foot bitten
+1868-09-01,1868,ITALY,Adriatic Sea,M,,,True,,,Blanco,FATAL
+1853-09-28,1853,USA,North Carolina,M,,,False,,,Blanco,No injury. Copper breastplate & harness bitten
+,1853,USA,South Carolina,M,,,True,,,Tigre,FATAL
+,1853,USA,North Carolina,M,,,False,,,Blanco,"No injury, copper breastplate punctured"
+1852-02-26,1852,SOUTH AFRICA,Western Cape Province,M,,,True,1,Madrugada,Blanco,"FATAL. All of the women & children on board survived, but many of the 445 men that perished were taken by sharks"
+,1834,FRENCH POLYNESIA,Society Islands,F,,,True,,,Martillo,FATAL
+,1785,ENGLAND,Sussex,M,,,True,,,Tigre,Human remains recovered from shark
+1776-01-01,1776,GREENLAND,,NAN,,,True,,,Blanco,FATAL
+1721-06-01,1721,ITALY,Sardinia,M,,,True,,,Blanco,"FATAL,  partial remains recovered from sharks gut"
+,1700,FRANCE,Côte d'Azur ,M,,,False,,,Blanco,Leg severed
+,1554,FRANCE,Nice & Marseilles,M,,,,,,Blanco,
+,1000,USA,Puerto Rico,M,29,,False,,,Tigre,FATAL
+,0,AUSTRALIA,Queensland,M,,,False,,,Martillo,"Shark bumped him, but no injury"
+,0,VENEZUELA,Los Roques  Islands,M,,,True,,,Martillo,"FATAL (x3), one survived with minor injuries"
+,0,AUSTRALIA,Torres Strait,M,,,False,,,Tigre,"No injury, helmet bitten"
+,0,BAHREIN,,M,,,True,,,Tigre,FATAL
+,0,VANUATU,Malampa Province,M,,,False,,,Martillo,Speared shark broke outrigger of canoe throwing man into the water & shark bit his buttock PROVOKED INCIDENT
+,0,IRAN,Khuzestan Province,M,,,False,,,Toro,Foot severed
+,0,SEYCHELLES,Amirante Islands,M,,,True,,,Tigre,FATAL
+,0,IRAQ,Basrah,M,6,,False,,,Toro,Arm severed
+,0,IRAQ,Basrah,M,16,,False,,,Toro,Right leg lacerated & surgically amputated
+,0,BAHAMAS,Andros Islands,M,,,False,,,Blanco,Lower leg and forearm severed
+,0,USA,California,F,,,False,,,Blanco,Leg injured
+,0,NICARAGUA,Lake Nicaragua (fresh water),M,,,True,,,Toro,"FATAL, leg severed "
+,0,IRAQ,Basrah,M,,,True,,,Toro,"FATAL, left leg bitten with severe blood loss"
+,0,ITALY,Adriatic Sea,M,,,False,,,Blanco,No injury to occupant; shark capsized boat
+,0,BELIZE,,M,16,,True,,,Tigre,FATAL
